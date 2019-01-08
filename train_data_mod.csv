@@ -1,0 +1,1202 @@
+hotel.id: Descending,includes_weekend: Descending,is_cardless: Descending,is_prepaid: Descending,checkin_date: Descending,nights: Descending,number_of_rooms: Descending,hotel.stars: Descending,hotel.type.keyword: Descending,customer.country_code.keyword: Descending,hotel.country_en.keyword: Descending,hotel.city_en.keyword: Descending,customer.platform.keyword: Descending,created_at per day,cancelled: Descending
+822620,0,1,0,"July 9, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"July 3, 2017",1
+27032,0,0,0,"December 4, 2017",1,1,4,Hotel,SA,Egypt,Cairo,iPhoneApp,"December 4, 2017",0
+452806,1,0,0,"June 28, 2017",7,1,5,Hotel Resort,SA,Indonesia,Nusa Dua,Chrome,"June 19, 2017",0
+621754,0,0,0,"February 26, 2017",3,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"February 20, 2017",1
+205042,0,0,1,"October 15, 2017",1,1,2,Hotel,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"October 9, 2017",0
+19540,0,0,0,"July 2, 2017",2,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"June 26, 2017",0
+874298,0,1,0,"June 13, 2017",1,1,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 12, 2017",1
+645300,1,0,0,"September 23, 2017",1,1,3,Hotel,KW,Kuwait,Hawally,iPhoneApp,"September 18, 2017",1
+11492,0,0,0,"August 17, 2017",1,1,4,Villa,PS,Palestine,Jericho,iPhoneApp,"August 14, 2017",0
+42296,1,0,0,"April 14, 2017",1,1,5,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"April 10, 2017",0
+1006792,0,0,0,"June 14, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Tabuk,iPhoneApp,"June 12, 2017",0
+323726,1,0,1,"October 5, 2017",3,1,4,Hotel,SA,Czech Republic,Prague,iPhoneApp,"August 21, 2017",0
+18008,1,0,1,"September 1, 2017",1,1,5,Apart Hotel,SA,Bahrain,Manama,iPhoneApp,"August 28, 2017",0
+19336,0,0,0,"December 10, 2017",2,1,4,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"December 4, 2017",0
+262024,1,0,0,"August 27, 2017",11,1,4,Hotel,SA,Turkey,Istanbul,Safari,"August 14, 2017",0
+765302,0,0,0,"January 25, 2017",1,2,5,Hotel,SA,Kuwait,Salmiyah,Chrome,"January 9, 2017",0
+24946,1,0,0,"September 20, 2017",5,1,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"September 18, 2017",1
+14636,0,0,0,"April 4, 2017",2,1,5,Hotel Resort,PS,Jordan,Dead Sea,Chrome,"March 20, 2017",0
+358348,1,0,0,"July 13, 2018",3,3,0,Hotel,IL,Turkey,Istanbul,AndroidApp,"September 18, 2017",1
+874340,0,1,0,"May 28, 2017",1,1,0,Apartment,SA,Saudi Arabia,Madinah,iPhoneApp,"May 22, 2017",1
+211314,1,0,0,"May 26, 2017",4,1,4,Hotel,SA,United Kingdom,London,iPhoneApp,"April 24, 2017",1
+31062,1,0,0,"June 1, 2017",3,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 1, 2017",0
+57516,1,0,0,"January 27, 2017",4,1,0,Hotel,SA,Saudi Arabia,Riyadh,Chrome,"January 9, 2017",1
+822672,1,0,0,"March 17, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"March 13, 2017",0
+754630,1,0,0,"January 29, 2017",6,1,3,Hotel,SA,United Arab Emirates,Dubai,Chrome,"January 23, 2017",0
+822672,0,1,0,"March 9, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"March 6, 2017",0
+422826,0,0,0,"June 28, 2017",1,1,3,Hotel,SA,Saudi Arabia,Yanbu,iPhoneApp,"June 26, 2017",0
+15058,0,0,0,"December 4, 2017",1,1,5,Hotel,QA,Oman,Muscat,iPhoneApp,"November 27, 2017",0
+17144,0,1,0,"December 31, 2017",1,1,3,Hotel,SA,Bahrain,Manama,Chrome,"December 25, 2017",0
+874318,0,1,0,"June 11, 2017",1,1,0,Apartment,SA,Saudi Arabia,Madinah,AndroidApp,"June 5, 2017",0
+28642,1,0,0,"January 26, 2017",4,2,4,Hotel Resort,SA,Saudi Arabia,Al Khobar,Chrome,"January 23, 2017",0
+1236536,0,0,0,"December 21, 2017",1,1,3,Hotel Resort,SA,Saudi Arabia,Taif,AndroidApp,"December 18, 2017",1
+802132,1,0,0,"January 25, 2017",3,1,4,Others,SA,Qatar,Doha,Chrome,"January 16, 2017",0
+32960,0,0,0,"August 22, 2017",1,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"August 21, 2017",0
+275894,1,0,0,"September 29, 2017",3,1,3,Hotel,TR,Turkey,Ankara,AndroidOS,"August 21, 2017",0
+700972,1,0,0,"July 28, 2017",1,1,0,Others,BH,Turkey,Fethiye City Center,AndroidApp,"July 24, 2017",0
+14550,1,0,0,"September 21, 2017",4,1,5,Hotel,SA,Egypt,Cairo,iPhoneApp,"September 18, 2017",0
+14860,0,0,0,"April 16, 2017",3,1,3,Hotel,PS,Jordan,Aqaba,Chrome,"April 10, 2017",0
+44770,0,0,0,"June 19, 2017",1,1,0,Suite,SA,Saudi Arabia,Taif,iPhoneApp,"June 19, 2017",1
+470498,0,0,0,"June 26, 2017",4,2,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"June 19, 2017",1
+34002,0,0,0,"July 27, 2017",1,1,5,Hotel,SA,Bahrain,Manama,iPhoneApp,"July 24, 2017",0
+14658,0,0,0,"July 13, 2017",1,1,5,Hotel Resort,QA,Jordan,Dead Sea,Chrome,"July 10, 2017",0
+19562,1,0,0,"March 31, 2017",1,1,4,Hotel Resort,SA,Bahrain,Manama,AndroidApp,"March 20, 2017",0
+24400,1,0,0,"May 4, 2017",2,1,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"April 24, 2017",0
+822810,1,1,0,"August 3, 2017",2,1,0,Hotel,JO,Jordan,Aqaba,Chrome,"July 31, 2017",1
+690130,1,0,1,"September 2, 2017",5,1,4,Others,SA,United Arab Emirates,Dubai,Chrome,"August 14, 2017",0
+14550,1,0,0,"July 9, 2017",7,1,5,Hotel,SA,Egypt,Cairo,Chrome,"June 19, 2017",1
+14338,1,0,0,"February 11, 2017",5,2,5,Hotel,SA,Egypt,Cairo,Chrome,"February 6, 2017",0
+482248,1,0,0,"September 3, 2017",6,4,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"August 28, 2017",0
+40344,0,0,0,"September 7, 2017",1,1,4,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"September 4, 2017",0
+21026,0,1,0,"March 30, 2017",1,1,4,Hotel,SA,Qatar,Doha,iPhoneApp,"March 26, 2017",0
+26348,0,0,0,"May 16, 2017",1,1,5,Hotel,PS,Palestine,Ramallah and Al-Bireh,iPhoneApp,"May 15, 2017",0
+24854,1,0,0,"April 27, 2017",4,2,4,Hotel,PS,United Arab Emirates,Dubai,AndroidApp,"March 13, 2017",1
+21022,1,1,0,"September 2, 2017",1,2,3,Hotel,JO,Jordan,Wadi Musa,AndroidApp,"August 28, 2017",0
+874278,1,1,0,"September 1, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,AndroidApp,"August 21, 2017",1
+612504,1,0,0,"June 29, 2017",2,1,0,Hotel,GB,France,Paris,Chrome,"June 5, 2017",0
+45388,0,0,0,"January 26, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"January 23, 2017",0
+14552,1,0,0,"November 2, 2017",7,1,5,Hotel,SA,Egypt,Cairo,iPhoneApp,"October 30, 2017",0
+729980,1,0,0,"April 1, 2017",5,2,2,Others,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 26, 2017",0
+460856,1,0,0,"March 10, 2017",15,1,3,Hotel,DZ,Portugal,Lisbon,Chrome,"January 23, 2017",1
+822750,0,0,0,"November 9, 2017",1,1,4,Hotel,SA,Saudi Arabia,Gizan,iPhoneApp,"November 6, 2017",0
+822782,1,1,0,"August 19, 2017",2,1,0,Suite,SA,Saudi Arabia,Riyadh,Chrome,"August 14, 2017",0
+14908,0,0,0,"July 10, 2017",3,1,5,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"July 3, 2017",0
+35978,0,0,0,"June 11, 2017",1,1,5,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"June 5, 2017",0
+31372,1,0,0,"November 17, 2017",1,1,4,Hotel,EG,Saudi Arabia,Makkah (Mecca),iPhoneApp,"November 13, 2017",1
+822458,1,1,0,"March 25, 2017",1,1,0,Hotel,KW,Saudi Arabia,Madinah,iPhoneApp,"March 20, 2017",1
+298822,0,0,0,"October 22, 2017",5,1,5,Hotel,TR,Turkey,Istanbul,AndroidApp,"October 16, 2017",1
+309204,1,0,1,"March 2, 2017",3,1,5,Hotel,SA,Malaysia,Kuala Lumpur,Chrome,"February 27, 2017",0
+805586,1,0,0,"July 21, 2017",1,1,4,Others,SA,Saudi Arabia,Jeddah,iPhoneApp,"July 17, 2017",0
+14964,0,0,1,"April 3, 2017",3,2,5,Hotel,SA,Qatar,Doha,Chrome,"April 3, 2017",0
+302462,0,0,1,"November 14, 2017",1,1,5,Hotel,QA,Qatar,Doha,iPhoneApp,"November 13, 2017",0
+337130,1,0,0,"May 16, 2017",4,1,2,Hotel,PS,Singapore,Singapore,Chrome,"April 17, 2017",1
+43938,1,0,0,"October 5, 2017",2,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"September 25, 2017",0
+744520,0,0,0,"December 4, 2017",1,1,5,Hotel,AE,Jordan,Amman,AndroidApp,"December 4, 2017",0
+621754,1,0,0,"March 1, 2017",5,1,3,Hotel,SA,United Arab Emirates,Dubai,AndroidOS,"February 27, 2017",0
+822620,1,1,0,"February 1, 2017",4,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"January 30, 2017",0
+1050534,1,0,0,"July 3, 2017",7,1,0,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"June 26, 2017",1
+40072,0,0,1,"February 12, 2017",2,1,5,All Inclusive,US,Morocco,Marrakech,Firefox,"February 6, 2017",1
+15042,0,0,1,"July 27, 2017",1,1,5,Hotel,SA,Bahrain,Manama,iPhoneApp,"July 24, 2017",0
+403946,1,0,1,"November 5, 2017",9,1,3,Hotel,EG,Germany,Berlin,iPhoneApp,"October 16, 2017",0
+15148,1,0,0,"February 3, 2017",3,1,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"January 30, 2017",0
+44180,1,0,0,"February 4, 2017",1,1,4,Hotel,JO,United Arab Emirates,Abu Dhabi,Chrome,"January 30, 2017",0
+25816,0,0,0,"October 8, 2017",4,1,3,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"October 2, 2017",0
+1019820,1,0,0,"November 16, 2017",3,1,3,Apart Hotel,SA,Saudi Arabia,Riyadh,Chrome,"November 13, 2017",0
+309988,0,0,0,"July 10, 2017",3,1,3,Inn,SA,Sri Lanka,Nuwara Eliya,iPhoneApp,"July 3, 2017",1
+28654,1,0,0,"March 27, 2017",5,1,3,Hotel,SA,Saudi Arabia,Al Khobar,Chrome,"March 20, 2017",1
+544482,1,0,0,"August 31, 2017",2,1,3,Hotel,GB,United Kingdom,London,iPhoneApp,"August 28, 2017",1
+23270,0,0,0,"January 2, 2018",2,1,5,Hotel,SA,Egypt,Giza,iPhoneApp,"December 25, 2017",0
+42314,0,0,0,"May 31, 2017",2,3,5,Hotel,SA,Saudi Arabia,Madinah,iOS,"May 29, 2017",0
+15002,0,0,0,"October 19, 2017",1,1,3,Hotel,QA,Qatar,Doha,AndroidApp,"October 16, 2017",0
+822976,0,0,0,"December 11, 2017",1,1,4,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"December 11, 2017",0
+500500,1,0,0,"December 1, 2017",9,3,4,Hotel,LY,Germany,Hamburg,Chrome,"October 30, 2017",1
+1006488,1,0,0,"September 8, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Al Baha,Chrome,"September 4, 2017",1
+30946,0,1,0,"April 6, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"April 3, 2017",0
+55496,1,0,0,"May 26, 2017",1,1,4,Inn,SA,Qatar,Doha,Chrome,"May 22, 2017",0
+1086454,0,1,0,"December 26, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"December 25, 2017",0
+374200,0,0,0,"April 3, 2017",2,1,5,Hotel,IL,Turkey,Serik,iPhoneApp,"March 26, 2017",0
+14924,1,1,0,"September 2, 2017",4,3,5,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"August 28, 2017",1
+15114,1,0,0,"November 7, 2017",4,1,5,Others,SA,Egypt,Cairo,iPhoneApp,"November 6, 2017",0
+30946,1,1,0,"May 17, 2017",3,1,4,Hotel,AE,Saudi Arabia,Makkah (Mecca),Chrome,"May 15, 2017",0
+17704,1,0,0,"July 7, 2017",2,1,4,Hotel,IL,Jordan,Amman,iPhoneApp,"July 3, 2017",0
+279388,0,0,0,"November 14, 2017",2,2,3,Hotel,MY,Malaysia,Langkawi,AndroidApp,"November 13, 2017",0
+14252,0,0,1,"December 17, 2017",3,1,5,Hotel,BH,Egypt,Cairo,AndroidApp,"December 11, 2017",0
+583686,0,0,0,"February 9, 2017",1,1,4,Hotel,SA,Qatar,Doha,iPhoneApp,"February 6, 2017",0
+719010,0,0,0,"September 6, 2017",2,1,3,Others,SA,Bahrain,Manama,iPhoneApp,"September 4, 2017",0
+822966,1,0,0,"August 7, 2017",7,1,3,Hotel,BH,Lebanon,Beirut,AndroidApp,"July 10, 2017",0
+17952,1,0,0,"August 31, 2017",3,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"August 14, 2017",0
+814206,1,0,0,"August 3, 2017",6,1,0,Hostel/BackPacker Accommodation,TR,Turkey,Marmaris,iPhoneApp,"July 31, 2017",0
+822952,1,0,0,"September 1, 2017",1,1,4,Apart Hotel,QA,Qatar,Doha,iPhoneApp,"August 28, 2017",0
+22910,1,0,0,"June 22, 2017",5,2,4,Hotel,SA,Bahrain,Manama,Chrome,"June 5, 2017",0
+15134,0,0,0,"July 4, 2017",2,2,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"July 3, 2017",0
+24838,0,0,0,"June 26, 2017",1,1,4,Apart Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"June 19, 2017",0
+40508,1,0,0,"September 23, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"September 18, 2017",0
+30946,0,1,0,"April 23, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"April 17, 2017",1
+822932,1,1,0,"June 10, 2017",3,1,0,Apart Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"May 29, 2017",1
+822646,1,1,0,"December 14, 2017",2,2,3,Bed and Breakfast,PS,Jordan,Amman,iPhoneApp,"December 11, 2017",1
+443500,0,0,0,"March 26, 2017",4,1,4,Apart Hotel,KW,United Arab Emirates,Dubai,AndroidApp,"January 16, 2017",0
+14818,0,0,1,"October 16, 2017",2,1,4,Hotel,IL,Egypt,Sharm el Sheikh,Chrome,"October 9, 2017",0
+19484,0,1,0,"February 1, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,AndroidApp,"January 30, 2017",0
+13040,1,0,0,"June 29, 2017",15,1,5,Hotel,SA,Egypt,Sharm el Sheikh,iPhoneApp,"May 1, 2017",0
+15152,0,0,0,"May 29, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"May 8, 2017",0
+21868,0,0,0,"October 24, 2017",3,1,5,Hotel,SA,Jordan,Amman,iOS,"October 16, 2017",0
+24560,1,0,0,"June 27, 2017",8,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"June 26, 2017",0
+57436,1,0,0,"September 15, 2017",1,1,0,Suite,SA,Saudi Arabia,Abha,iPhoneApp,"September 11, 2017",0
+55310,0,0,0,"February 20, 2017",3,1,4,Suite,FR,Saudi Arabia,Riyadh,Edge,"February 13, 2017",0
+13018,0,0,1,"October 25, 2017",1,1,3,Hotel,SA,Jordan,Amman,iPhoneApp,"October 23, 2017",0
+341652,1,0,0,"June 24, 2017",2,1,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"June 12, 2017",1
+42114,0,0,0,"January 15, 2017",4,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"January 9, 2017",0
+230740,0,0,0,"September 3, 2017",1,1,2,Hotel,MA,Morocco,Tangier,AndroidApp,"August 28, 2017",1
+637798,1,0,0,"January 21, 2017",1,1,3,Hotel,LY,Tunisia,Tunis,Firefox,"January 16, 2017",0
+263752,0,0,0,"March 14, 2017",3,1,3,Hotel,IL,Turkey,Istanbul,iPhoneApp,"February 27, 2017",0
+720040,1,0,0,"August 25, 2017",1,1,4,Others,SA,Saudi Arabia,Riyadh,iPhoneApp,"August 21, 2017",0
+765302,0,0,0,"June 11, 2017",1,1,5,Hotel,SA,Kuwait,Salmiyah,iPhoneApp,"June 5, 2017",0
+14338,1,0,0,"November 15, 2017",7,1,5,Hotel,SA,Egypt,Cairo,iPhoneApp,"November 6, 2017",1
+44180,0,0,0,"April 5, 2017",2,1,4,Hotel,SA,United Arab Emirates,Abu Dhabi,iPhoneApp,"March 26, 2017",1
+999484,0,0,0,"October 30, 2017",3,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"October 16, 2017",0
+822658,0,0,0,"January 31, 2017",3,1,0,Apartment,SA,Kuwait,Salmiyah,Chrome,"January 2, 2017",0
+14934,0,0,0,"August 15, 2017",2,1,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"July 10, 2017",1
+34002,1,0,0,"September 1, 2017",3,1,5,Hotel,SA,Bahrain,Manama,iPhoneApp,"July 31, 2017",1
+20784,0,0,0,"October 15, 2017",1,1,2,Hotel,IL,Jordan,Amman,Chrome,"October 9, 2017",0
+31742,1,0,0,"August 18, 2017",1,1,4,Hotel,SA,Saudi Arabia,Al Khobar,AndroidApp,"August 14, 2017",1
+15138,0,0,0,"March 21, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"March 20, 2017",0
+273302,0,0,0,"February 12, 2017",1,1,4,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"February 6, 2017",0
+14632,1,0,1,"January 27, 2017",2,1,4,Hotel,SA,Saudi Arabia,Dammam,Chrome,"January 23, 2017",0
+14862,1,0,0,"October 6, 2017",1,1,5,Hotel,LB,Lebanon,Beirut,AndroidOS,"October 2, 2017",0
+30926,1,0,0,"January 28, 2017",2,2,2,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 9, 2017",0
+775834,1,0,1,"March 8, 2017",3,1,3,Others,PS,Thailand,Koh Tao,Chrome,"January 16, 2017",0
+21026,1,1,0,"March 31, 2017",7,1,4,Hotel,SA,Qatar,Doha,iPhoneApp,"February 20, 2017",0
+301572,1,0,1,"August 24, 2017",3,2,5,Hotel,KW,Turkey,Istanbul,iPhoneApp,"August 7, 2017",0
+822888,0,0,0,"March 1, 2017",1,1,0,Apartment,EG,Egypt,Alexandria,iPhoneApp,"February 13, 2017",1
+252336,1,0,0,"July 29, 2017",4,1,4,Hotel,AE,Spain,Barcelona,iPhoneApp,"July 17, 2017",1
+24320,1,0,0,"September 2, 2017",1,3,5,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"August 21, 2017",0
+250472,1,0,0,"August 19, 2017",21,1,3,Hotel,MA,France,Marseille,Chrome,"August 14, 2017",1
+26348,0,0,0,"April 27, 2017",1,1,5,Hotel,IL,Palestine,Ramallah and Al-Bireh,iPhoneApp,"April 24, 2017",0
+25948,1,0,1,"July 14, 2017",1,1,3,Hotel,KZ,United Arab Emirates,Dubai,Chrome,"July 10, 2017",0
+42598,1,0,0,"September 16, 2017",1,1,3,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"September 11, 2017",0
+15042,1,0,0,"July 14, 2017",1,1,5,Hotel,SA,Bahrain,Manama,iPhoneApp,"July 10, 2017",0
+661350,1,0,1,"July 22, 2017",6,1,4,Hotel,SA,United Arab Emirates,Sharjah,iPhoneApp,"July 10, 2017",0
+444348,1,0,0,"October 7, 2017",7,1,0,Hostel/BackPacker Accommodation,AE,Turkey,Istanbul,iPhoneApp,"October 2, 2017",0
+397908,1,0,0,"August 1, 2017",5,2,4,Hotel Resort,SA,Egypt,Sharm el Sheikh,AndroidApp,"July 17, 2017",1
+241944,1,0,0,"September 20, 2017",10,1,3,Hotel,JO,Netherlands,Zaandam,UNKNOWN,"May 22, 2017",1
+24560,1,0,0,"August 19, 2017",3,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 14, 2017",0
+15150,0,0,0,"May 24, 2017",1,2,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"May 22, 2017",1
+421356,1,0,0,"January 19, 2017",2,1,3,Hotel,EG,Egypt,Giza,Chrome,"January 16, 2017",0
+17316,1,0,0,"November 10, 2017",1,1,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"November 6, 2017",0
+685808,1,0,0,"March 3, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"February 6, 2017",0
+1044882,1,0,0,"August 25, 2017",5,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"August 21, 2017",0
+317804,1,0,0,"June 29, 2017",2,1,0,Hotel,TR,Turkey,Istanbul,Chrome,"May 22, 2017",0
+16162,0,0,0,"August 29, 2017",1,1,5,Hotel Resort,SA,United Arab Emirates,Jebel Dhanna,AndroidApp,"August 21, 2017",1
+15154,0,0,0,"June 14, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"June 12, 2017",0
+24122,0,0,0,"March 13, 2017",4,1,3,Hotel,SA,United Arab Emirates,Sharjah,Chrome,"March 13, 2017",1
+822716,1,1,0,"April 29, 2017",7,1,0,Hotel,SA,Saudi Arabia,Madinah,Chrome,"April 24, 2017",0
+19484,1,1,0,"April 1, 2017",5,1,3,Hotel,SA,Saudi Arabia,Al Khobar,AndroidApp,"February 27, 2017",1
+822752,0,0,0,"September 25, 2017",1,1,4,Hotel,SA,Saudi Arabia,Khafji,Chrome,"September 25, 2017",0
+1060834,0,0,0,"July 17, 2017",2,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"July 10, 2017",0
+448556,1,0,0,"January 24, 2017",7,1,4,Hotel,SA,Egypt,Sharm el Sheikh,AndroidApp,"January 2, 2017",0
+744526,0,0,0,"February 22, 2017",2,1,4,Hotel,IL,Jordan,Amman,iPhoneApp,"February 13, 2017",0
+34576,0,0,0,"November 19, 2017",1,1,3,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"November 13, 2017",0
+19484,0,1,0,"February 1, 2017",2,1,3,Hotel,SA,Saudi Arabia,Al Khobar,Chrome,"January 16, 2017",1
+874352,0,1,0,"June 19, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 19, 2017",0
+31722,0,1,0,"June 28, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 26, 2017",1
+433914,0,0,0,"December 19, 2017",2,2,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"December 18, 2017",0
+822806,0,0,0,"August 21, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"August 14, 2017",1
+711688,0,0,0,"April 2, 2017",5,1,4,Others,SA,United Arab Emirates,Dubai,Chrome,"March 26, 2017",0
+822458,1,1,0,"April 1, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"March 26, 2017",0
+24488,1,0,0,"August 30, 2017",3,1,4,Apart Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"August 28, 2017",1
+26348,1,0,0,"May 4, 2017",2,2,5,Hotel,IL,Palestine,Ramallah and Al-Bireh,Chrome,"May 1, 2017",0
+625086,1,0,0,"July 27, 2017",2,1,3,Hotel,SA,United Arab Emirates,Sharjah,iPhoneApp,"July 24, 2017",0
+200250,1,0,0,"April 22, 2017",8,1,4,Hotel,KW,United Kingdom,London,iPhoneApp,"April 17, 2017",1
+732814,0,0,0,"January 26, 2017",1,1,0,Others,AE,United Arab Emirates,Dubai,iPhoneApp,"January 23, 2017",1
+807056,1,0,0,"January 22, 2017",7,2,3,Others,SA,Saudi Arabia,Madinah,iPhoneApp,"January 9, 2017",0
+822670,0,1,0,"February 12, 2017",2,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"February 6, 2017",1
+14970,1,0,0,"December 15, 2017",1,1,5,Hotel,QA,Qatar,Doha,Chrome,"December 11, 2017",0
+1078376,0,0,0,"November 26, 2017",1,1,3,Hotel,OM,Morocco,Rabat,AndroidApp,"November 20, 2017",0
+253124,1,0,0,"July 8, 2017",4,1,3,Hotel,SA,Turkey,Antalya,Chrome,"February 20, 2017",1
+874318,0,1,0,"July 16, 2017",1,1,0,Apartment,SA,Saudi Arabia,Madinah,AndroidApp,"July 10, 2017",0
+220268,0,0,1,"December 3, 2017",3,21,5,Hotel,PS,Malaysia,Kuala Lumpur,Chrome,"December 11, 2017",0
+323076,1,0,0,"August 14, 2017",6,3,4,Hotel,LY,Turkey,Istanbul,iPhoneApp,"July 31, 2017",1
+291882,0,0,0,"August 2, 2017",2,1,4,Hotel,KW,United Arab Emirates,Dubai,iPhoneApp,"July 17, 2017",1
+57556,1,0,0,"December 16, 2017",1,1,0,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"December 11, 2017",0
+42352,0,0,1,"January 15, 2018",3,1,4,Hotel,SA,Saudi Arabia,Madinah,Chrome,"December 4, 2017",0
+219066,1,0,1,"August 13, 2017",6,2,4,Hotel,KW,Greece,Athens,AndroidApp,"July 31, 2017",0
+15116,0,0,0,"August 15, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"August 7, 2017",1
+460856,1,0,0,"March 10, 2017",15,1,3,Hotel,DZ,Portugal,Lisbon,Chrome,"January 16, 2017",1
+34896,1,1,0,"September 15, 2017",2,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"July 24, 2017",1
+23832,0,0,0,"July 9, 2017",3,1,3,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"July 3, 2017",0
+685808,0,0,0,"April 4, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 13, 2017",1
+43440,1,1,0,"May 27, 2017",10,1,0,Apartment,SA,Saudi Arabia,Jeddah,Chrome,"May 22, 2017",0
+273388,0,0,0,"August 2, 2017",2,2,4,Hotel,KW,Germany,Munich,AndroidApp,"July 31, 2017",0
+19716,1,0,0,"July 8, 2017",1,1,5,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"July 3, 2017",1
+17332,1,0,0,"January 17, 2017",7,1,4,Hotel,JO,Turkey,Istanbul,AndroidApp,"January 2, 2017",0
+15934,1,0,1,"October 14, 2017",3,1,5,Hotel Resort,SA,Kuwait,Salmiyah,iPhoneApp,"October 9, 2017",0
+23866,0,0,0,"June 8, 2017",1,1,2,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 5, 2017",0
+246856,1,0,0,"December 28, 2017",4,2,2,Hotel,SA,Thailand,Koh Samui,iPhoneApp,"November 20, 2017",0
+1027848,1,0,0,"September 2, 2017",2,1,3,Hotel,SA,Bosnia and Herzegovina,Sarajevo,iPhoneApp,"August 28, 2017",1
+822620,0,1,0,"June 26, 2017",2,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 12, 2017",1
+1086304,1,1,0,"December 21, 2017",22,1,4,Hotel,LY,Turkey,Istanbul,Chrome,"December 11, 2017",1
+200250,1,0,0,"February 23, 2017",7,1,4,Hotel,KW,United Kingdom,London,iPhoneApp,"February 6, 2017",0
+45438,0,0,0,"August 14, 2017",2,1,4,Apartment,SA,Saudi Arabia,Riyadh,Chrome,"August 14, 2017",0
+18146,0,0,0,"April 13, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"April 10, 2017",0
+15926,0,0,0,"January 11, 2017",1,1,4,Hotel,KW,Kuwait,Kuwait City,iPhoneApp,"January 9, 2017",0
+42114,1,0,0,"March 31, 2017",4,1,3,Hotel,SA,United Arab Emirates,Dubai,Chrome,"March 26, 2017",1
+44770,0,0,0,"July 3, 2017",1,1,0,Suite,SA,Saudi Arabia,Taif,AndroidApp,"June 26, 2017",1
+1072990,0,0,0,"June 11, 2017",4,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 29, 2017",0
+822568,0,0,0,"July 6, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"July 3, 2017",0
+466904,0,0,0,"July 3, 2017",1,1,5,Hotel,TN,Tunisia,Gammarth,AndroidApp,"July 3, 2017",0
+200860,1,0,0,"February 4, 2017",7,1,5,Hotel,AE,Singapore,Singapore,IE,"January 30, 2017",0
+371670,0,0,0,"December 25, 2017",3,1,4,Hotel,DE,Czech Republic,Prague,iPhoneApp,"August 14, 2017",0
+208862,1,0,1,"March 10, 2017",7,1,3,Hotel Resort,JO,United States,Las Vegas,AndroidApp,"February 27, 2017",0
+17128,0,0,0,"December 7, 2017",1,2,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"November 27, 2017",1
+33560,0,0,0,"June 21, 2017",2,1,0,Hotel,SA,Bahrain,Manama,iPhoneApp,"June 5, 2017",1
+1078376,0,0,1,"October 29, 2017",4,1,3,Hotel,IL,Morocco,Rabat,Chrome,"October 16, 2017",0
+11632,0,0,0,"September 21, 2017",1,1,5,Hotel,JO,Jordan,Amman,iPhoneApp,"September 18, 2017",1
+43804,1,0,0,"August 5, 2017",2,2,3,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"July 31, 2017",0
+19022,1,0,0,"July 8, 2017",2,2,4,Hotel,SA,Morocco,Casablanca,AndroidApp,"July 3, 2017",0
+25028,0,0,0,"June 25, 2017",3,2,4,Hotel,SA,United Arab Emirates,Sharjah,Chrome,"June 12, 2017",0
+30646,0,0,0,"May 11, 2017",1,1,3,Suite,SA,Saudi Arabia,Jeddah,Chrome,"April 24, 2017",0
+822568,0,1,0,"December 31, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 25, 2017",0
+685808,1,0,0,"July 28, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"July 24, 2017",0
+42250,0,0,1,"October 19, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"October 16, 2017",0
+744476,0,1,0,"April 30, 2017",1,1,4,Suite,SA,Saudi Arabia,Jeddah,AndroidApp,"April 24, 2017",0
+744476,0,1,0,"June 22, 2017",1,1,4,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 19, 2017",0
+685812,1,0,0,"March 8, 2017",3,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 6, 2017",1
+57436,0,0,0,"June 19, 2017",1,1,0,Suite,SA,Saudi Arabia,Abha,iPhoneApp,"June 19, 2017",1
+370978,0,0,0,"June 25, 2017",3,1,3,Apartment,IL,Israel,Eilat,iPhoneApp,"June 12, 2017",1
+16166,1,0,0,"August 11, 2017",1,1,4,Hotel Resort,KW,Bahrain,Manama,iPhoneApp,"August 7, 2017",0
+38550,0,0,0,"September 3, 2017",3,1,4,Hotel Resort,SA,Saudi Arabia,Al Khobar,iPhoneApp,"August 28, 2017",0
+1051416,0,0,0,"July 16, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Ahsa,iPhoneApp,"July 10, 2017",1
+23836,0,0,0,"September 3, 2017",1,1,4,Hotel,SA,Saudi Arabia,Riyadh,Chrome,"August 21, 2017",0
+17900,0,1,0,"October 4, 2017",1,1,3,Hotel,PS,Jordan,Amman,iPhoneApp,"October 2, 2017",1
+467784,0,0,1,"January 26, 2017",1,1,4,Hotel,DZ,Morocco,Casablanca,AndroidApp,"January 23, 2017",0
+23924,0,0,0,"June 14, 2017",1,2,3,Hotel,SA,Kuwait,Kuwait City,Chrome,"June 12, 2017",0
+25028,1,0,0,"June 29, 2017",2,2,4,Hotel,OM,United Arab Emirates,Sharjah,AndroidApp,"June 19, 2017",0
+30504,1,0,0,"July 1, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 19, 2017",1
+822620,0,1,0,"May 15, 2017",1,2,0,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"May 15, 2017",0
+37978,0,0,1,"September 28, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"September 25, 2017",0
+583686,1,0,0,"March 23, 2017",2,1,4,Hotel,AU,Qatar,Doha,Chrome,"February 20, 2017",1
+55340,0,1,0,"February 1, 2017",1,1,5,Hotel,SA,Qatar,Doha,Chrome,"January 30, 2017",0
+30970,0,1,0,"November 15, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"November 13, 2017",0
+315806,1,0,0,"January 28, 2017",10,1,1,Hotel,SA,United Arab Emirates,Dubai,iOS,"January 23, 2017",0
+728964,1,0,0,"May 26, 2017",4,1,5,Others,PS,Spain,Ibiza,iPhoneApp,"May 1, 2017",0
+23314,1,0,0,"March 9, 2017",2,1,5,Hotel,SA,Qatar,Doha,iPhoneApp,"February 27, 2017",0
+57516,1,0,0,"March 3, 2017",1,1,0,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"February 27, 2017",1
+699888,1,0,0,"August 26, 2017",15,1,3,Others,QA,United States,West Palm Beach,iPhoneApp,"August 21, 2017",0
+471720,1,0,1,"November 30, 2017",2,1,0,Apart Hotel,KW,United Arab Emirates,Dubai,iPhoneApp,"November 20, 2017",0
+45426,1,0,0,"February 9, 2017",2,1,3,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"February 6, 2017",1
+533180,1,0,0,"January 26, 2017",2,2,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"January 9, 2017",0
+335566,0,0,0,"February 28, 2017",1,1,0,Apart Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"February 27, 2017",0
+874278,0,1,0,"June 26, 2017",2,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 12, 2017",1
+291882,0,0,0,"August 13, 2017",4,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 7, 2017",0
+58032,1,0,0,"September 6, 2017",3,1,4,Apartment,SA,Saudi Arabia,Riyadh,Chrome,"September 4, 2017",0
+581454,0,0,0,"August 2, 2017",1,1,3,Apartment,SA,Saudi Arabia,Riyadh,AndroidApp,"July 31, 2017",0
+676562,0,0,1,"January 24, 2017",2,1,3,Hotel,GB,United Kingdom,London,Chrome,"January 23, 2017",0
+58032,0,0,0,"March 21, 2017",1,1,4,Apartment,SA,Saudi Arabia,Riyadh,iPhoneApp,"March 20, 2017",0
+979994,1,1,0,"June 30, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,Chrome,"June 26, 2017",0
+25600,1,0,0,"April 14, 2017",5,1,4,Apart Hotel,SA,United Arab Emirates,Dubai,Chrome,"April 10, 2017",1
+45388,0,0,0,"February 1, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"January 30, 2017",0
+533180,0,0,0,"July 4, 2017",2,2,3,Hotel,OM,United Arab Emirates,Dubai,AndroidApp,"June 12, 2017",1
+724968,1,0,1,"March 1, 2017",14,1,4,Others,QA,China,Quanzhou,iPhoneApp,"February 13, 2017",0
+23830,0,0,0,"September 7, 2017",1,2,4,Hotel Resort,SA,Saudi Arabia,Jeddah,iPhoneApp,"September 4, 2017",0
+822700,1,1,0,"March 8, 2017",3,2,0,Hotel,SA,Saudi Arabia,Makkah (Mecca),iOS,"March 6, 2017",0
+257170,0,0,0,"October 31, 2017",1,1,0,Hotel,TR,Turkey,Alanya,iPhoneApp,"October 30, 2017",1
+744538,1,1,0,"April 1, 2017",5,1,3,Apart Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"March 6, 2017",1
+31976,0,0,0,"July 25, 2017",1,1,4,Apart Hotel,SA,Bahrain,Manama,AndroidApp,"July 24, 2017",0
+1006556,1,0,0,"December 1, 2017",1,1,2,Hotel,SA,Saudi Arabia,Buraydah,AndroidApp,"November 27, 2017",0
+15002,0,0,0,"March 29, 2017",2,1,3,Hotel,SA,Qatar,Doha,iPhoneApp,"March 26, 2017",0
+30914,0,0,0,"January 24, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"January 23, 2017",0
+221714,1,0,0,"March 17, 2017",1,1,4,Hotel,PS,Turkey,Istanbul,iPhoneApp,"March 13, 2017",0
+30504,0,0,0,"August 30, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"August 28, 2017",1
+14938,0,0,0,"August 28, 2017",2,1,5,Hotel,QA,Qatar,Doha,iPhoneApp,"August 14, 2017",1
+24478,1,0,0,"January 5, 2017",4,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"January 2, 2017",0
+15134,1,0,0,"April 29, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"February 6, 2017",1
+589724,0,0,0,"June 25, 2017",3,2,5,Hotel,SA,Saudi Arabia,King Abdullah Economic City,Chrome,"June 5, 2017",0
+651376,1,0,0,"July 28, 2017",1,1,3,Apartment,OM,United Arab Emirates,Sharjah,AndroidApp,"July 24, 2017",0
+2286,1,0,0,"August 31, 2017",3,8,5,Hotel,IL,Palestine,Bethlehem,Chrome,"July 31, 2017",0
+26312,1,0,0,"June 24, 2017",3,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"June 12, 2017",0
+759992,1,0,0,"August 10, 2017",2,1,4,Others,SA,Bahrain,Manama,iPhoneApp,"August 7, 2017",0
+28150,1,1,0,"June 29, 2017",2,2,5,Hotel,JO,Jordan,Dead Sea,AndroidApp,"June 26, 2017",0
+822458,0,1,0,"January 30, 2017",1,2,0,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"January 16, 2017",0
+737404,1,0,0,"March 2, 2017",3,1,3,Others,SA,Kuwait,Salmiyah,Chrome,"February 27, 2017",0
+19348,1,0,0,"September 21, 2017",3,1,2,Hotel,SA,United Arab Emirates,Dubai,Chrome,"September 18, 2017",0
+24668,0,0,0,"March 1, 2017",2,1,4,Hotel,JO,United Arab Emirates,Dubai,Chrome,"February 27, 2017",0
+419056,0,0,1,"November 7, 2017",2,1,5,Hotel,PS,Turkey,Istanbul,AndroidApp,"October 30, 2017",0
+822568,0,1,0,"August 22, 2017",2,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"August 21, 2017",0
+25812,1,0,0,"August 30, 2017",8,2,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 21, 2017",1
+302890,1,0,0,"November 17, 2017",5,1,5,Hotel,IL,Turkey,Istanbul,Chrome,"October 30, 2017",0
+14634,1,0,0,"February 10, 2017",1,1,4,Hotel,JO,Jordan,Dead Sea,iOS,"February 6, 2017",0
+42254,0,0,0,"September 5, 2017",1,1,5,Hotel,SA,Bahrain,Manama,AndroidApp,"August 28, 2017",1
+805638,0,0,0,"June 20, 2017",3,1,3,Others,AE,Saudi Arabia,Makkah (Mecca),AndroidApp,"June 5, 2017",0
+18380,1,0,0,"August 5, 2017",1,1,3,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"July 31, 2017",0
+15162,1,0,0,"January 11, 2017",3,1,5,Hotel,QA,United Arab Emirates,Dubai,Chrome,"January 2, 2017",1
+306056,1,0,0,"July 13, 2017",7,1,3,Hotel,NL,Turkey,Istanbul,AndroidApp,"March 13, 2017",0
+742378,0,0,0,"October 3, 2017",1,1,3,Others,UA,Ukraine,Kharkiv,iOS,"October 2, 2017",1
+28666,0,0,0,"September 3, 2017",1,1,4,Hotel,SA,Saudi Arabia,Al Khobar,Chrome,"August 28, 2017",0
+56878,1,0,0,"October 20, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"October 16, 2017",1
+504112,0,0,0,"July 25, 2017",1,1,3,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"July 24, 2017",1
+211950,1,0,0,"April 15, 2017",1,1,4,Hotel,SA,Indonesia,Jakarta,Chrome,"April 10, 2017",0
+17042,0,0,0,"August 14, 2017",3,5,5,Hotel,KW,Turkey,Antalya,iPhoneApp,"July 31, 2017",1
+309774,1,0,0,"May 24, 2017",3,1,3,Bed and Breakfast,AE,Georgia,Tbilisi,AndroidApp,"May 15, 2017",0
+15054,1,0,1,"June 17, 2017",1,1,4,Hotel,SA,Saudi Arabia,Taif,iPhoneApp,"June 12, 2017",0
+580930,0,0,0,"June 20, 2017",2,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 19, 2017",0
+371672,1,0,0,"July 17, 2017",7,2,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"May 29, 2017",0
+25762,1,0,0,"August 11, 2017",3,1,4,Hotel,AE,United Arab Emirates,Dubai,Chrome,"July 31, 2017",0
+15178,1,0,0,"September 15, 2017",4,2,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"September 11, 2017",0
+822980,0,1,0,"September 5, 2017",3,2,0,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"August 28, 2017",0
+42328,0,0,0,"April 16, 2017",2,1,2,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"April 10, 2017",0
+676950,1,0,0,"March 8, 2017",3,1,4,Villa,AE,Thailand,Bang Phli,AndroidApp,"March 6, 2017",0
+32960,0,0,0,"January 30, 2017",1,2,4,Hotel,SA,United Arab Emirates,Abu Dhabi,Chrome,"January 30, 2017",0
+15138,0,0,0,"April 11, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"April 10, 2017",0
+744520,1,0,0,"July 1, 2017",1,1,5,Hotel,SA,Jordan,Amman,iPhoneApp,"June 26, 2017",0
+315806,1,0,0,"January 12, 2018",6,1,1,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"October 2, 2017",1
+14670,0,0,0,"October 16, 2017",2,2,4,Hotel,KW,United Arab Emirates,Ajman,iPhoneApp,"October 9, 2017",0
+283808,0,0,0,"November 1, 2017",1,1,3,Hotel,ID,Indonesia,Bandung,Chrome,"October 30, 2017",0
+20796,0,1,0,"April 19, 2017",2,2,1,Hotel,DZ,Jordan,Amman,IE,"April 10, 2017",0
+220268,0,0,1,"December 3, 2017",3,1,5,Hotel,PS,Malaysia,Kuala Lumpur,Chrome,"November 20, 2017",1
+42288,1,0,0,"January 26, 2017",3,1,3,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"January 23, 2017",0
+19720,1,0,0,"March 9, 2017",2,1,5,Hotel,SA,United Arab Emirates,Dubai,Chrome,"February 27, 2017",0
+31722,0,1,0,"July 18, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 19, 2017",1
+409442,1,0,0,"May 9, 2017",9,1,2,Hotel,DE,Morocco,Casablanca,AndroidApp,"May 1, 2017",1
+14866,0,0,0,"June 26, 2017",3,1,5,Hotel,IL,Jordan,Aqaba,Chrome,"June 12, 2017",0
+290866,0,0,1,"July 13, 2017",1,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,Chrome,"July 10, 2017",0
+355030,1,0,0,"September 8, 2017",1,1,3,Hotel,SA,Germany,Frankfurt,iPhoneApp,"September 4, 2017",0
+27032,1,0,0,"August 24, 2017",4,2,4,Hotel,SA,Egypt,Cairo,AndroidApp,"August 14, 2017",0
+15212,1,0,0,"February 17, 2017",1,1,5,Hotel,SA,United Arab Emirates,Abu Dhabi,iPhoneApp,"February 13, 2017",0
+979994,1,1,0,"November 18, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,AndroidOS,"November 13, 2017",0
+1006604,0,0,0,"October 2, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Gizan,AndroidApp,"October 2, 2017",0
+24320,1,0,0,"September 2, 2017",1,3,5,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"August 21, 2017",1
+42352,0,0,0,"April 12, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"March 13, 2017",1
+396466,1,0,1,"September 12, 2017",4,1,5,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"September 4, 2017",0
+56878,0,0,0,"August 28, 2017",3,1,4,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"August 28, 2017",0
+822668,0,0,0,"March 26, 2017",2,1,0,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"March 20, 2017",0
+1006752,1,0,0,"August 5, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Al Baha,AndroidApp,"July 31, 2017",0
+19562,1,0,0,"March 10, 2017",1,1,4,Hotel Resort,SA,Bahrain,Manama,Chrome,"March 6, 2017",0
+17548,0,0,0,"February 12, 2017",5,1,4,Hotel,QA,Qatar,Doha,iPhoneApp,"February 6, 2017",0
+744530,1,1,0,"October 5, 2017",2,1,3,Suite,SA,Jordan,Amman,Chrome,"October 2, 2017",1
+30946,0,1,0,"February 28, 2017",1,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"February 27, 2017",0
+14658,0,0,0,"July 27, 2017",1,1,5,Hotel Resort,JO,Jordan,Dead Sea,iPhoneApp,"July 24, 2017",1
+14980,0,0,0,"January 15, 2017",4,1,5,Hotel,OM,Qatar,Doha,iPhoneApp,"January 2, 2017",0
+1150342,1,0,0,"January 5, 2018",1,1,3,Apart Hotel,BH,Bahrain,Manama,AndroidApp,"December 18, 2017",1
+583686,1,0,0,"April 1, 2017",5,1,4,Hotel,SA,Qatar,Doha,Chrome,"February 20, 2017",0
+1007714,0,0,0,"November 12, 2017",3,1,0,Hotel,BE,Turkey,Istanbul,AndroidApp,"October 30, 2017",0
+28322,0,1,0,"January 23, 2017",1,1,3,Apartment,JO,Jordan,Amman,iPhoneApp,"January 16, 2017",0
+822718,1,1,0,"September 2, 2017",6,2,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 21, 2017",0
+388600,1,0,0,"July 17, 2017",13,1,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"February 6, 2017",1
+27776,0,0,0,"February 6, 2017",1,1,3,Hotel,BE,Jordan,Amman,AndroidApp,"February 6, 2017",0
+239944,1,0,0,"August 26, 2017",1,1,4,Hotel,SA,Saudi Arabia,Gizan,iPhoneApp,"August 21, 2017",0
+21026,1,1,0,"March 3, 2017",1,1,4,Hotel,SA,Qatar,Doha,AndroidApp,"February 27, 2017",0
+249274,1,0,0,"February 17, 2017",1,1,2,Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"February 6, 2017",1
+14918,0,0,0,"July 5, 2017",1,1,5,Hotel,SA,Saudi Arabia,Al Khobar,iOS,"July 3, 2017",0
+784982,0,1,0,"January 19, 2017",1,1,3,Suite,IL,Saudi Arabia,Riyadh,Chrome,"January 16, 2017",0
+31364,0,0,0,"April 3, 2017",1,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"April 3, 2017",0
+874308,1,1,0,"November 3, 2017",1,2,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"October 30, 2017",1
+17128,0,0,0,"April 13, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"March 26, 2017",0
+12206,1,0,0,"July 27, 2017",3,6,5,Hotel,PS,Jordan,Amman,Chrome,"July 24, 2017",1
+31722,1,0,0,"June 15, 2017",2,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"May 29, 2017",0
+1064726,1,0,0,"August 12, 2017",1,1,0,Hotel,TR,Turkey,Istanbul,AndroidApp,"August 7, 2017",1
+14856,1,0,0,"September 19, 2017",6,1,3,Hotel,PS,Jordan,Aqaba,AndroidApp,"September 18, 2017",0
+279712,1,0,0,"January 21, 2017",4,1,4,Residence,IL,Italy,Milan,Chrome,"January 9, 2017",0
+45388,0,0,0,"April 3, 2017",4,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"February 20, 2017",1
+21026,1,1,0,"March 28, 2017",5,1,4,Hotel,SA,Qatar,Doha,Safari,"March 20, 2017",0
+13040,1,0,0,"May 10, 2017",3,1,5,Hotel,EG,Egypt,Sharm el Sheikh,AndroidApp,"March 20, 2017",0
+36186,1,0,0,"January 14, 2017",4,1,2,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"December 26, 2016",0
+19618,1,0,0,"November 10, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"November 6, 2017",0
+57432,0,0,0,"May 23, 2017",1,1,3,Hotel,SA,Saudi Arabia,Abha,Chrome,"May 22, 2017",0
+820968,1,0,0,"March 30, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"March 26, 2017",0
+537730,1,0,0,"August 29, 2017",11,3,4,Hotel,KW,Turkey,Istanbul,iPhoneApp,"July 31, 2017",1
+334998,0,0,0,"April 5, 2017",2,1,4,Hotel,SA,Egypt,Alexandria,iPhoneApp,"March 26, 2017",0
+14658,1,0,0,"July 1, 2017",1,1,5,Hotel Resort,JO,Jordan,Dead Sea,iPhoneApp,"June 26, 2017",0
+18220,1,0,0,"March 29, 2017",6,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 26, 2017",0
+815242,0,1,0,"May 25, 2017",1,1,4,Apartment,SA,Saudi Arabia,Riyadh,UNKNOWN,"May 22, 2017",0
+399598,0,0,0,"September 10, 2017",2,1,3,Hotel,KW,United Kingdom,Liverpool,Chrome,"September 4, 2017",0
+685808,1,0,0,"July 20, 2017",9,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"July 3, 2017",0
+14992,0,0,1,"January 25, 2017",1,1,5,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"January 16, 2017",0
+362124,1,0,0,"October 27, 2017",7,1,4,Hotel,SA,United Kingdom,London,iPhoneApp,"October 16, 2017",1
+27032,1,0,0,"October 19, 2017",2,1,4,Hotel,TN,Egypt,Cairo,iPhoneApp,"October 16, 2017",0
+822672,1,1,0,"January 4, 2017",3,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"January 2, 2017",0
+335906,1,0,0,"April 1, 2017",6,1,0,Apart Hotel,SA,United Arab Emirates,Dubai,Chrome,"February 27, 2017",1
+822460,0,0,0,"August 14, 2017",3,1,4,Hotel,SA,Jordan,Amman,iPhoneApp,"July 31, 2017",0
+14338,1,0,0,"August 12, 2017",4,1,5,Hotel,KW,Egypt,Cairo,iPhoneApp,"August 7, 2017",1
+820968,1,0,0,"January 12, 2018",5,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 18, 2017",1
+17154,1,0,0,"June 28, 2017",3,1,4,Hotel,SA,Bahrain,Manama,AndroidApp,"June 26, 2017",0
+16088,0,0,1,"October 3, 2017",1,1,5,Hotel,AE,United Arab Emirates,Al Aqah,iPhoneApp,"October 2, 2017",0
+31372,0,0,0,"June 20, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",0
+29920,1,0,0,"February 24, 2017",1,1,4,Hotel,KW,Kuwait,Salmiyah,AndroidApp,"February 20, 2017",1
+874314,1,1,0,"July 7, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"July 3, 2017",0
+263610,1,0,0,"December 27, 2017",6,1,4,Hotel,SA,Turkey,Istanbul,Chrome,"December 25, 2017",0
+31722,1,0,0,"June 30, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"June 26, 2017",0
+200716,1,0,0,"February 24, 2017",7,1,5,Hotel,KW,Malaysia,Kuala Lumpur,iOS,"February 6, 2017",1
+822424,0,0,0,"January 3, 2017",1,1,4,Suite,SA,Saudi Arabia,Al Khobar,Chrome,"January 2, 2017",0
+371502,1,0,0,"March 3, 2017",2,1,5,Hotel,IL,Turkey,Istanbul,Chrome,"February 27, 2017",0
+306186,1,0,0,"July 21, 2017",6,2,3,Apart Hotel,SA,Egypt,Alexandria,iPhoneApp,"July 17, 2017",1
+19866,1,0,1,"March 10, 2017",20,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 6, 2017",0
+249780,0,0,0,"June 22, 2017",1,1,4,Apart Hotel,QA,Qatar,Doha,Chrome,"June 19, 2017",0
+744520,0,0,0,"August 27, 2017",1,1,5,Hotel,PS,Jordan,Amman,AndroidApp,"August 21, 2017",0
+14914,0,0,0,"September 10, 2017",2,1,4,Hotel,SA,Saudi Arabia,Al Khobar,Chrome,"September 4, 2017",0
+25762,0,0,1,"January 3, 2017",1,1,4,Hotel,KW,United Arab Emirates,Dubai,AndroidApp,"January 2, 2017",1
+36142,0,0,0,"December 10, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"December 4, 2017",0
+743564,1,0,0,"February 25, 2017",1,1,2,Others,SA,United Arab Emirates,Dubai,iPhoneApp,"February 20, 2017",0
+874278,1,1,0,"September 7, 2017",6,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"September 4, 2017",1
+358656,1,0,0,"August 16, 2017",3,1,3,Hotel,SA,Tunisia,Monastir,iPhoneApp,"July 3, 2017",1
+448556,1,0,1,"September 21, 2017",2,1,4,Hotel,SA,Egypt,Sharm el Sheikh,iPhoneApp,"September 18, 2017",0
+17900,0,1,0,"January 30, 2017",1,1,3,Hotel,SA,Jordan,Amman,iPhoneApp,"January 30, 2017",0
+295410,1,0,1,"September 5, 2017",10,1,4,Apartment,SA,United Kingdom,London,Chrome,"July 10, 2017",0
+1047388,0,0,1,"July 30, 2017",5,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 24, 2017",0
+23000,0,0,0,"August 20, 2017",4,1,5,Hotel,EG,Egypt,Cairo,iPhoneApp,"August 14, 2017",0
+30602,0,1,0,"August 27, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"August 21, 2017",0
+754630,1,0,0,"June 24, 2017",3,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"June 19, 2017",1
+1068738,1,0,0,"September 15, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"September 11, 2017",0
+56622,1,1,0,"July 8, 2017",1,2,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"July 3, 2017",1
+497366,1,0,0,"March 30, 2017",5,2,5,Hotel Resort,SA,Egypt,Sharm el Sheikh,Chrome,"March 26, 2017",0
+212376,1,0,1,"March 17, 2017",2,1,5,Hotel,SE,Netherlands,Amsterdam,iPhoneApp,"March 13, 2017",1
+44180,1,0,0,"August 18, 2017",1,1,4,Hotel,SA,United Arab Emirates,Abu Dhabi,iPhoneApp,"August 14, 2017",0
+988828,0,0,0,"June 7, 2017",2,1,0,Apart Hotel,SA,Turkey,Istanbul,iPhoneApp,"June 5, 2017",1
+624316,0,0,0,"July 10, 2017",1,1,3,Hotel,SA,Turkey,Istanbul,AndroidApp,"July 10, 2017",1
+534296,1,0,0,"December 22, 2017",1,1,4,Apart Hotel,KW,Kuwait,Salmiyah,AndroidApp,"December 18, 2017",0
+16406,0,0,0,"August 30, 2017",1,1,4,Apart Hotel,SA,Kuwait,Salmiyah,Chrome,"August 28, 2017",0
+11492,0,0,0,"March 30, 2017",1,1,4,Villa,IL,Palestine,Jericho,iPhoneApp,"March 26, 2017",0
+474412,1,0,0,"February 19, 2017",7,1,3,Hotel,PS,Germany,Berlin,Chrome,"January 23, 2017",0
+19424,0,0,0,"June 11, 2017",1,1,5,Hotel,SA,Bahrain,Manama,Chrome,"June 5, 2017",0
+470498,1,0,0,"October 10, 2017",5,1,4,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"September 18, 2017",1
+1061488,1,0,0,"August 14, 2017",10,1,0,Apart Hotel,TR,Turkey,Istanbul,Chrome,"August 14, 2017",0
+16414,0,0,0,"March 6, 2017",3,1,5,Hotel,SA,United Arab Emirates,Jebel Ali,AndroidApp,"March 6, 2017",0
+744392,0,1,0,"December 26, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"December 25, 2017",0
+822620,1,1,0,"August 31, 2017",8,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 21, 2017",1
+16056,0,0,0,"May 28, 2017",1,1,4,Apart Hotel,KW,Saudi Arabia,Hafr Albatin,Chrome,"May 22, 2017",0
+822764,0,1,0,"March 13, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"March 6, 2017",0
+289422,0,0,1,"March 13, 2017",1,1,3,Hotel,DZ,Algeria,Algiers,Chrome,"March 6, 2017",1
+15906,1,0,0,"March 28, 2017",4,2,3,Hotel,SA,Kuwait,Kuwait City,AndroidApp,"March 20, 2017",0
+822672,1,0,0,"April 11, 2017",7,2,0,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"April 10, 2017",0
+744520,0,0,0,"June 28, 2017",2,1,5,Hotel,SA,Jordan,Amman,iPhoneApp,"June 26, 2017",0
+1060472,1,0,0,"June 21, 2017",9,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"May 22, 2017",0
+389446,0,0,0,"October 8, 2017",5,1,4,Hotel,PS,Turkey,Istanbul,AndroidApp,"October 2, 2017",0
+16182,1,0,0,"May 19, 2017",4,1,5,Hotel,PS,Jordan,Dead Sea,iPhoneApp,"May 1, 2017",1
+357356,0,0,1,"May 9, 2017",3,1,4,Hotel,KW,Germany,Garmisch-Partenkirchen,iPhoneApp,"April 24, 2017",0
+537730,1,0,0,"September 7, 2017",11,1,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"April 24, 2017",1
+412046,1,0,0,"April 1, 2017",2,2,4,Apart Hotel,SA,United Arab Emirates,Abu Dhabi,Chrome,"March 26, 2017",1
+30666,1,0,0,"January 28, 2017",5,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"January 23, 2017",0
+744476,0,1,0,"November 1, 2017",1,1,4,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"October 30, 2017",1
+822672,0,0,0,"April 10, 2017",3,1,0,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"April 10, 2017",0
+14642,0,0,0,"January 24, 2017",2,1,5,Hotel Resort,IL,Jordan,Dead Sea,Chrome,"January 23, 2017",0
+42302,1,0,0,"January 27, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"January 23, 2017",0
+744392,1,1,0,"December 8, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,AndroidApp,"November 27, 2017",1
+16166,0,0,0,"September 10, 2017",1,1,4,Hotel Resort,SA,Bahrain,Manama,iPhoneApp,"September 4, 2017",0
+1086046,1,0,0,"December 15, 2017",2,1,4,Hotel Resort,BH,Bahrain,Manama,Chrome,"September 25, 2017",1
+14662,0,0,0,"February 21, 2017",3,1,3,Apart Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"February 20, 2017",1
+30946,0,1,0,"January 26, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 23, 2017",0
+27706,0,0,0,"July 31, 2017",1,1,0,Hotel,PS,Jordan,Amman,Chrome,"July 31, 2017",0
+979994,0,1,0,"May 14, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,iPhoneApp,"May 8, 2017",0
+1006488,1,0,0,"June 17, 2017",1,1,2,Apart Hotel,BG,Saudi Arabia,Al Baha,AndroidOS,"June 12, 2017",0
+56710,1,1,0,"February 15, 2017",4,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"February 6, 2017",0
+437932,1,0,0,"February 4, 2017",8,1,0,Residence,MA,France,Toulouse,AndroidOS,"January 23, 2017",1
+256836,0,0,0,"December 25, 2017",3,1,2,Motel,US,United States,Houston,iPhoneApp,"December 25, 2017",0
+30946,0,1,0,"April 2, 2017",1,1,4,Hotel,BH,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 26, 2017",0
+56710,1,1,0,"April 20, 2017",2,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"April 17, 2017",0
+575772,0,0,0,"December 12, 2017",1,2,3,Hotel,SA,United Arab Emirates,Sharjah,iPhoneApp,"December 11, 2017",0
+30970,0,1,0,"November 1, 2017",1,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"October 23, 2017",1
+15138,1,0,0,"February 4, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"January 30, 2017",0
+571574,1,0,0,"May 4, 2017",7,1,4,Hotel,EG,Egypt,Dahab,AndroidApp,"March 26, 2017",1
+379772,1,0,0,"May 3, 2017",4,1,4,Hotel,SA,Turkey,Istanbul,AndroidApp,"May 1, 2017",0
+20168,1,0,0,"July 1, 2017",1,1,3,Apart Hotel,SA,Bahrain,Manama,AndroidApp,"June 26, 2017",0
+31718,0,0,0,"February 1, 2017",2,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 23, 2017",0
+507002,0,0,0,"October 12, 2017",1,1,0,Hotel,KW,Turkey,Sile,iPhoneApp,"October 9, 2017",0
+14516,0,0,0,"April 6, 2017",1,2,3,Hotel,PS,Jordan,Amman,Chrome,"April 3, 2017",0
+57904,0,0,0,"March 29, 2017",2,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,Chrome,"March 26, 2017",0
+11176,1,0,0,"June 21, 2017",9,1,4,Hotel,EG,Jordan,Amman,Chrome,"June 19, 2017",0
+402050,0,0,0,"October 10, 2017",1,1,3,Hotel,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"October 9, 2017",0
+822672,1,1,0,"January 27, 2017",4,1,0,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"January 2, 2017",0
+326070,1,0,0,"March 31, 2017",2,1,0,Apart Hotel,AE,United Arab Emirates,Dubai,Chrome,"March 26, 2017",0
+671856,0,0,0,"January 31, 2017",2,2,3,Apart Hotel,OM,United Arab Emirates,Sharjah,AndroidApp,"January 23, 2017",1
+20706,0,0,0,"January 30, 2017",1,4,4,Hotel,KW,Turkey,Istanbul,Chrome,"January 2, 2017",0
+822806,1,0,0,"June 28, 2017",3,1,4,Apart Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"June 26, 2017",0
+744392,0,1,0,"August 16, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"August 14, 2017",1
+40548,0,0,0,"May 31, 2017",1,1,4,Hotel,IQ,Turkey,Ankara,AndroidApp,"May 29, 2017",0
+14964,1,0,0,"December 14, 2017",3,1,5,Hotel,QA,Qatar,Doha,iPhoneApp,"December 11, 2017",0
+311320,0,0,1,"August 6, 2017",1,1,4,Apart Hotel,TH,Thailand,Bangkok,AndroidApp,"July 31, 2017",0
+17986,0,0,0,"April 2, 2017",3,1,3,Hotel,SA,Qatar,Doha,AndroidApp,"March 26, 2017",0
+24112,1,0,0,"March 11, 2017",2,1,3,Hotel,SA,United Arab Emirates,Sharjah,Chrome,"March 6, 2017",0
+272880,1,0,1,"October 27, 2017",4,1,2,Hotel,PS,Cyprus,Nicosia,Chrome,"October 9, 2017",0
+743606,0,0,0,"January 19, 2017",1,1,4,Others,AE,United Arab Emirates,Dubai,AndroidOS,"January 9, 2017",1
+213678,1,0,1,"December 6, 2017",8,1,4,Hotel,SA,Indonesia,Jakarta,AndroidApp,"December 4, 2017",0
+26088,0,0,0,"November 21, 2017",3,2,4,Hotel,SA,United Arab Emirates,Dubai,iOS,"November 20, 2017",0
+291882,1,0,0,"March 30, 2017",5,1,4,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"March 26, 2017",1
+1008242,1,0,1,"September 1, 2017",1,1,2,Hostel/BackPacker Accommodation,PS,Thailand,Bangkok,Chrome,"August 28, 2017",1
+44948,1,0,0,"June 3, 2017",1,1,3,Villa,SA,Saudi Arabia,Jeddah,AndroidApp,"May 29, 2017",0
+14662,0,0,0,"October 4, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Dammam,iOS,"October 2, 2017",0
+1086134,0,0,0,"October 25, 2017",1,1,0,Hotel,SA,Saudi Arabia,Riyadh,iOS,"October 23, 2017",1
+15056,0,0,1,"June 26, 2017",2,1,5,Hotel Resort,AE,Oman,Muscat,AndroidApp,"June 19, 2017",0
+809054,1,0,0,"January 12, 2017",4,1,0,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"January 9, 2017",0
+744466,0,0,0,"August 13, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,Chrome,"August 7, 2017",0
+779580,0,0,0,"January 30, 2017",3,1,4,Others,SA,United Arab Emirates,Dubai,AndroidApp,"January 9, 2017",0
+24668,1,0,0,"September 8, 2017",1,1,4,Hotel,OM,United Arab Emirates,Dubai,AndroidApp,"September 4, 2017",0
+24668,1,0,0,"April 10, 2017",10,2,4,Hotel,DE,United Arab Emirates,Dubai,Firefox,"February 20, 2017",1
+338036,1,0,1,"December 1, 2017",3,1,4,Hotel,PS,Turkey,Istanbul,AndroidApp,"November 27, 2017",0
+45460,1,0,0,"February 23, 2017",2,1,4,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"February 20, 2017",0
+339506,1,0,1,"March 16, 2017",6,1,3,Hotel,US,Malaysia,Kuala Lumpur,Firefox,"March 13, 2017",1
+23670,0,0,0,"April 13, 2017",1,1,4,Hotel,SA,Saudi Arabia,Riyadh,Chrome,"April 10, 2017",0
+41974,1,0,0,"December 3, 2017",12,1,4,Hotel,QA,Turkey,Istanbul,iPhoneApp,"November 27, 2017",0
+624316,1,0,0,"April 23, 2017",8,1,3,Hotel,JO,Turkey,Istanbul,Firefox,"April 17, 2017",0
+1086352,0,0,0,"December 20, 2017",1,1,3,Apart Hotel,PS,Jordan,Amman,AndroidApp,"December 11, 2017",1
+248694,0,0,0,"January 29, 2017",4,2,4,Hotel,QA,United Arab Emirates,Dubai,iPhoneApp,"January 23, 2017",1
+43406,1,0,0,"January 28, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 23, 2017",0
+14252,1,0,0,"April 27, 2017",3,1,5,Hotel,AE,Egypt,Cairo,iPhoneApp,"April 24, 2017",1
+25900,0,0,0,"April 2, 2017",3,3,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 26, 2017",0
+55340,0,1,0,"February 1, 2017",1,1,5,Hotel,SA,Qatar,Doha,iPhoneApp,"January 23, 2017",1
+21026,0,1,0,"July 5, 2017",1,1,4,Hotel,QA,Qatar,Doha,iPhoneApp,"July 3, 2017",0
+1086476,0,0,0,"December 28, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"December 25, 2017",0
+31594,0,0,0,"April 3, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,AndroidApp,"April 3, 2017",0
+23568,1,0,0,"July 26, 2017",3,1,5,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"July 24, 2017",0
+18216,1,0,0,"February 3, 2017",2,1,3,Apart Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"January 30, 2017",0
+252134,1,0,0,"August 7, 2017",5,1,5,Hotel,QA,United Kingdom,Glasgow,iPhoneApp,"July 31, 2017",0
+27686,1,1,0,"June 24, 2017",1,1,3,Hotel,JO,Jordan,Amman,AndroidApp,"June 19, 2017",0
+15132,1,0,1,"June 30, 2017",1,1,5,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"June 19, 2017",0
+817466,1,1,0,"February 2, 2017",7,1,4,Apartment,IQ,Jordan,Amman,Chrome,"January 16, 2017",0
+744458,0,0,0,"March 27, 2017",4,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"March 20, 2017",0
+30380,0,0,0,"April 4, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"March 26, 2017",0
+673610,0,0,0,"August 1, 2017",3,1,3,Hotel,SA,Saudi Arabia,Dammam,iPhoneApp,"July 31, 2017",1
+769520,1,0,0,"July 28, 2017",4,1,0,Others,SA,Turkey,Istanbul,iPhoneApp,"July 17, 2017",0
+822672,1,1,0,"March 31, 2017",8,1,0,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"February 6, 2017",1
+18240,1,0,0,"January 27, 2017",2,2,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"January 23, 2017",1
+45460,0,0,0,"February 8, 2017",1,1,4,Hotel,SA,Kuwait,Kuwait City,AndroidApp,"February 6, 2017",0
+743256,1,0,0,"February 3, 2017",5,1,4,Hotel,US,United Arab Emirates,Dubai,iPhoneApp,"January 9, 2017",0
+213650,1,0,1,"August 26, 2017",1,1,4,Hotel,PS,Italy,Venice,Firefox,"July 17, 2017",0
+14850,0,0,0,"December 24, 2017",2,2,4,Hotel,JO,Jordan,Aqaba,Chrome,"December 18, 2017",0
+666466,1,0,1,"March 3, 2017",2,1,5,Hotel,TR,Turkey,Istanbul,Chrome,"February 20, 2017",0
+279406,1,0,1,"September 1, 2017",3,1,3,Hotel,SA,Philippines,Makati,iPhoneApp,"August 14, 2017",0
+822458,0,1,0,"April 2, 2017",4,1,0,Hotel,SA,Saudi Arabia,Madinah,Chrome,"March 26, 2017",1
+455996,1,0,1,"April 6, 2017",5,1,4,Hotel,IL,France,Paris,iPhoneApp,"February 20, 2017",0
+21026,1,1,0,"October 4, 2017",4,1,4,Hotel,PK,Qatar,Doha,Chrome,"October 2, 2017",0
+31356,0,0,0,"March 23, 2017",1,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 20, 2017",0
+24376,1,0,0,"July 8, 2017",5,1,4,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"July 3, 2017",0
+31742,1,1,0,"March 31, 2017",3,1,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"March 26, 2017",1
+23938,1,0,0,"August 31, 2017",2,1,3,Hotel,SA,Kuwait,Salmiyah,AndroidApp,"August 28, 2017",0
+418126,1,0,0,"January 28, 2017",2,1,3,Hotel,ID,Indonesia,Jakarta,iPhoneApp,"January 23, 2017",0
+309982,1,0,0,"August 24, 2017",10,1,3,Apart Hotel,AE,Malaysia,Kuala Lumpur,AndroidApp,"June 5, 2017",0
+1060834,0,0,0,"July 24, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"July 24, 2017",1
+24838,1,0,0,"May 11, 2017",2,1,4,Apart Hotel,BH,United Arab Emirates,Dubai,iPhoneApp,"May 8, 2017",0
+999484,0,0,0,"September 27, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"September 25, 2017",0
+234524,1,0,0,"December 28, 2017",9,1,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"December 11, 2017",1
+979994,1,1,0,"December 28, 2017",2,1,0,Apartment,SA,Saudi Arabia,Jeddah,AndroidApp,"December 25, 2017",0
+15138,1,0,1,"October 3, 2017",4,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"September 25, 2017",0
+15310,1,0,1,"September 23, 2017",1,1,5,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"September 18, 2017",0
+874314,0,1,0,"August 14, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iOS,"August 7, 2017",0
+18762,1,0,1,"November 10, 2017",1,1,5,Hotel,KW,Lebanon,Beirut,AndroidApp,"November 6, 2017",0
+12352,0,0,0,"October 15, 2017",1,1,5,Hotel,JO,Jordan,Amman,iPhoneApp,"October 9, 2017",0
+24570,1,0,1,"March 26, 2017",6,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 20, 2017",0
+56884,0,0,0,"January 25, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"January 23, 2017",1
+15134,1,0,0,"March 4, 2017",2,1,5,Hotel,KW,Saudi Arabia,Makkah (Mecca),AndroidApp,"February 20, 2017",0
+31722,0,0,0,"June 8, 2017",1,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",1
+1051422,0,0,0,"June 7, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Dammam,iPhoneApp,"June 5, 2017",1
+402050,0,0,0,"March 8, 2017",1,1,3,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"March 6, 2017",0
+339506,0,0,0,"June 21, 2017",1,3,3,Hotel,SA,Malaysia,Kuala Lumpur,AndroidApp,"June 19, 2017",1
+15856,0,0,0,"January 16, 2017",1,1,4,Hotel Resort,SA,Saudi Arabia,Al Khobar,Chrome,"January 16, 2017",0
+277768,0,0,1,"February 6, 2017",2,1,5,Hotel,MA,Morocco,Marrakech,Firefox,"January 30, 2017",1
+200950,1,0,0,"January 15, 2017",8,1,5,Hotel,JO,Netherlands,Amsterdam,iPhoneApp,"January 2, 2017",1
+22652,0,0,0,"February 19, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"February 13, 2017",0
+822866,1,0,0,"March 30, 2017",9,2,0,Apartment,AE,Kuwait,Kuwait City,Chrome,"February 27, 2017",1
+17128,0,0,0,"April 26, 2017",2,1,4,Hotel,SA,Bahrain,Manama,Chrome,"April 24, 2017",0
+815030,1,1,0,"August 11, 2017",1,2,4,Apart Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"August 7, 2017",1
+704958,0,0,0,"October 22, 2017",3,1,0,Others,PS,France,Paris,Chrome,"October 2, 2017",1
+699146,1,0,0,"March 15, 2017",4,1,3,Hotel,SA,United Arab Emirates,Dubai,iOS,"March 6, 2017",1
+718306,1,0,0,"July 22, 2017",5,2,2,Others,EG,Egypt,Alexandria,iPhoneApp,"July 17, 2017",0
+30810,1,0,1,"November 23, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"November 20, 2017",0
+744458,0,0,0,"May 4, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"April 3, 2017",0
+822992,1,0,0,"November 9, 2017",2,2,0,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"November 6, 2017",0
+390050,1,0,1,"August 5, 2017",2,1,1,Hotel,SA,United States,Miami,iPhoneApp,"July 31, 2017",0
+1074854,1,0,0,"August 5, 2017",5,1,3,Apart Hotel,AE,Oman,Seeb,iPhoneApp,"July 10, 2017",0
+667308,0,0,0,"August 7, 2017",2,2,4,Hotel,AE,Azerbaijan,Baku,iPhoneApp,"August 7, 2017",0
+759658,1,0,0,"March 10, 2017",6,1,4,Others,SA,United Arab Emirates,Dubai,Chrome,"February 27, 2017",0
+30650,0,0,0,"June 26, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"June 19, 2017",0
+17148,1,0,0,"November 16, 2017",2,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"November 13, 2017",0
+683722,0,0,0,"May 9, 2017",2,1,3,Others,SA,United Arab Emirates,Dubai,iPhoneApp,"May 1, 2017",0
+327120,1,0,1,"April 4, 2017",4,1,5,Hotel,SA,Qatar,Doha,AndroidOS,"March 26, 2017",1
+405124,1,0,0,"September 15, 2017",2,1,4,All Inclusive,EG,Egypt,Hurghada,AndroidApp,"September 11, 2017",0
+874278,0,1,0,"May 4, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,Chrome,"May 1, 2017",0
+25816,1,0,0,"September 13, 2017",3,2,3,Hotel,SA,United Arab Emirates,Dubai,iOS,"September 11, 2017",0
+807056,0,0,0,"January 5, 2017",1,1,3,Others,SA,Saudi Arabia,Madinah,iPhoneApp,"December 26, 2016",0
+12206,1,0,0,"July 21, 2017",3,1,5,Hotel,AE,Jordan,Amman,Chrome,"July 17, 2017",0
+32960,1,0,0,"May 20, 2017",1,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"May 15, 2017",0
+42356,1,0,0,"May 6, 2017",4,1,4,Hotel,SA,Saudi Arabia,Madinah,Chrome,"April 24, 2017",0
+22988,0,0,0,"May 15, 2017",1,1,3,Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"April 17, 2017",0
+264806,1,0,1,"September 7, 2017",2,1,5,Hotel,SA,Turkey,Istanbul,AndroidApp,"September 4, 2017",0
+28560,0,1,0,"May 23, 2017",2,1,2,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"May 22, 2017",1
+776676,1,0,0,"March 30, 2017",4,1,3,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"March 26, 2017",0
+19502,1,0,0,"September 2, 2017",3,1,3,Hotel,SA,Saudi Arabia,Al Khobar,Chrome,"August 28, 2017",0
+822722,1,1,0,"April 6, 2017",2,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"April 3, 2017",0
+315806,1,0,0,"November 24, 2017",1,1,1,Hotel,SA,United Arab Emirates,Dubai,Chrome,"November 20, 2017",1
+787758,1,0,0,"August 2, 2017",3,1,0,Others,JO,Turkey,Istanbul,AndroidApp,"July 17, 2017",0
+16076,0,0,0,"June 28, 2017",2,1,5,Hotel,AE,United Arab Emirates,Dibba,Chrome,"June 26, 2017",0
+16026,1,0,1,"September 1, 2017",2,1,4,Hotel,SA,Saudi Arabia,Yanbu,iPhoneApp,"August 21, 2017",0
+30136,0,0,0,"December 24, 2017",2,4,3,Hotel,IL,Palestine,Bethlehem,Chrome,"October 23, 2017",1
+379570,0,0,0,"September 11, 2017",2,1,4,Residence,KW,France,Courbevoie,iPhoneApp,"September 4, 2017",0
+17144,0,1,0,"August 24, 2017",1,1,3,Hotel,SA,Bahrain,Manama,iPhoneApp,"August 21, 2017",0
+32778,0,1,0,"March 2, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"February 27, 2017",0
+25986,0,0,0,"July 13, 2017",1,1,5,Palace,AE,United Arab Emirates,Ajman,AndroidApp,"July 10, 2017",0
+744392,0,1,0,"August 30, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"August 7, 2017",0
+23538,0,0,1,"August 15, 2017",1,1,4,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"August 7, 2017",0
+464762,1,0,0,"January 9, 2017",6,1,4,Hotel,MA,Spain,Madrid,Chrome,"January 2, 2017",1
+19484,0,1,0,"July 31, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"July 31, 2017",1
+240836,1,0,0,"July 14, 2017",2,1,5,Hotel,LY,Turkey,Istanbul,iPhoneApp,"July 10, 2017",0
+24918,0,0,1,"August 30, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 28, 2017",0
+221152,1,0,0,"August 15, 2017",5,3,0,Hotel,PS,Turkey,Istanbul,Chrome,"August 7, 2017",0
+476094,1,0,0,"March 29, 2017",3,1,4,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"March 20, 2017",0
+315910,1,0,0,"February 6, 2017",6,1,1,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"January 30, 2017",0
+30810,1,0,1,"October 6, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"October 2, 2017",0
+460622,0,0,0,"July 17, 2017",2,2,5,Hotel Resort,SA,Egypt,Taba,Chrome,"June 19, 2017",1
+233616,1,0,0,"November 16, 2017",14,1,4,Hotel,LY,Spain,Madrid,Chrome,"November 6, 2017",0
+14504,0,0,0,"March 12, 2017",3,1,4,Hotel,IL,Jordan,Amman,Chrome,"March 6, 2017",0
+15150,0,0,1,"February 7, 2017",2,1,5,Hotel,JO,Saudi Arabia,Makkah (Mecca),AndroidApp,"February 6, 2017",0
+45304,0,0,0,"August 7, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"July 31, 2017",1
+1086254,1,0,0,"December 29, 2017",3,1,5,Hotel Resort,SA,Bahrain,Manama,IE,"December 11, 2017",0
+321556,1,0,0,"September 16, 2017",1,1,4,Hotel,SA,United Kingdom,West Drayton,iPhoneApp,"June 12, 2017",1
+30504,0,0,0,"March 14, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"March 13, 2017",0
+714388,0,1,0,"February 19, 2017",1,1,4,Hotel,PS,Jordan,Amman,iPhoneApp,"February 13, 2017",0
+12352,0,0,0,"August 3, 2017",1,1,5,Hotel,JO,Jordan,Amman,iPhoneApp,"July 31, 2017",0
+32392,0,0,0,"June 18, 2017",1,1,4,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"June 12, 2017",0
+15912,0,0,0,"August 29, 2017",3,3,3,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"August 28, 2017",1
+56710,0,1,0,"April 16, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"April 10, 2017",0
+250800,0,0,0,"January 15, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 2, 2017",1
+470498,1,1,0,"June 16, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"June 12, 2017",0
+707386,1,0,0,"December 8, 2017",2,1,5,Others,QA,Qatar,Doha,iPhoneApp,"November 20, 2017",0
+744498,0,1,0,"April 4, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"April 3, 2017",0
+1007740,1,0,1,"May 27, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 22, 2017",0
+466320,1,0,0,"October 12, 2017",4,2,5,Hotel,AE,Hungary,Budapest,iPhoneApp,"September 4, 2017",1
+500778,1,0,0,"August 30, 2017",5,2,3,Hotel,IL,United Kingdom,London,iPhoneApp,"July 31, 2017",1
+267158,1,0,0,"September 2, 2017",2,1,0,Hotel,TR,Turkey,Istanbul,iPhoneApp,"August 28, 2017",0
+23776,0,0,0,"July 9, 2017",1,1,3,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"July 3, 2017",0
+18762,1,0,1,"August 31, 2017",3,1,5,Hotel,JO,Lebanon,Beirut,iPhoneApp,"August 14, 2017",0
+15922,0,0,0,"June 27, 2017",1,1,3,Hotel,SA,Kuwait,Salmiyah,iPhoneApp,"June 12, 2017",0
+1086254,1,0,0,"November 10, 2017",1,1,5,Hotel Resort,SA,Bahrain,Manama,iPhoneApp,"November 6, 2017",0
+673610,1,0,0,"September 1, 2017",4,1,3,Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"August 28, 2017",0
+379380,1,0,0,"August 26, 2017",2,1,4,Hotel,GB,Sweden,Stockholm,iPhoneApp,"July 10, 2017",1
+394662,0,0,1,"November 6, 2017",4,4,4,Hotel,SA,Germany,Cologne,iPhoneApp,"June 26, 2017",0
+425508,0,0,0,"September 17, 2017",3,2,4,Hotel,MA,Morocco,Marrakech,iPhoneApp,"September 11, 2017",0
+17332,1,0,0,"March 16, 2017",4,1,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"March 13, 2017",0
+56878,1,0,0,"January 27, 2017",6,1,4,Hotel,SA,Saudi Arabia,Madinah,Safari,"January 9, 2017",0
+459536,1,0,1,"October 27, 2017",2,1,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"October 23, 2017",0
+23672,0,0,0,"October 4, 2017",2,1,5,Hotel,SA,Egypt,Cairo,Chrome,"October 2, 2017",0
+21022,1,1,0,"September 21, 2017",2,3,3,Hotel,JO,Jordan,Wadi Musa,AndroidApp,"September 18, 2017",0
+815250,1,0,0,"August 17, 2017",6,2,4,Apartment,SA,United Kingdom,London,Chrome,"July 3, 2017",1
+249350,0,0,1,"September 17, 2017",1,1,3,Apartment,AE,Ukraine,Kiev,AndroidApp,"September 11, 2017",0
+55340,0,0,0,"January 22, 2017",2,1,5,Hotel,SA,Qatar,Doha,iOS,"January 16, 2017",0
+728152,1,0,0,"April 6, 2017",2,2,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"April 3, 2017",0
+44180,0,0,0,"August 22, 2017",2,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"August 14, 2017",1
+874326,0,1,0,"October 8, 2017",1,1,0,Apartment,SA,Saudi Arabia,Madinah,Chrome,"October 2, 2017",0
+16056,0,0,0,"November 15, 2017",2,1,4,Apart Hotel,JO,Saudi Arabia,Hafr Albatin,iPhoneApp,"November 6, 2017",1
+14828,1,0,0,"November 25, 2017",5,1,3,Hotel,LY,Egypt,Sharm el Sheikh,Chrome,"November 13, 2017",0
+979998,0,1,0,"December 21, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 18, 2017",0
+16346,0,0,0,"July 25, 2017",1,1,5,Hotel,KW,Kuwait,Kuwait City,iPhoneApp,"July 17, 2017",0
+22988,0,0,0,"July 9, 2017",1,1,3,Hotel,SA,Saudi Arabia,Dammam,iPhoneApp,"March 26, 2017",0
+364742,1,0,1,"August 8, 2017",4,2,3,Hotel,AE,Switzerland,Spiez,iPhoneApp,"August 7, 2017",0
+333146,0,0,0,"September 20, 2017",1,1,4,Hotel,ID,Indonesia,Bandung,Chrome,"September 18, 2017",0
+25732,1,0,0,"January 11, 2017",4,1,4,Hotel,JO,United Arab Emirates,Dubai,AndroidApp,"January 9, 2017",0
+26448,0,0,0,"August 29, 2017",1,1,3,Hotel,TN,Tunisia,Hammamet,iPhoneApp,"August 28, 2017",1
+384870,1,0,0,"April 29, 2017",3,1,5,Apart Hotel,IL,Jordan,Amman,Chrome,"February 6, 2017",0
+42072,1,0,0,"January 15, 2018",8,1,4,Hostel/BackPacker Accommodation,SA,United Arab Emirates,Dubai,Chrome,"December 25, 2017",0
+13018,0,0,1,"December 7, 2017",1,1,3,Hotel,PS,Jordan,Amman,AndroidApp,"December 4, 2017",0
+822764,1,1,0,"January 5, 2018",13,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 25, 2017",1
+589702,0,0,0,"May 28, 2017",1,1,0,Hotel,SA,Saudi Arabia,Dammam,iPhoneApp,"May 22, 2017",0
+874298,0,1,0,"October 8, 2017",1,1,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"October 2, 2017",0
+474168,0,0,1,"June 27, 2017",2,2,3,Hotel,MA,Morocco,Tangier,iPhoneApp,"May 29, 2017",1
+17786,1,0,0,"January 26, 2017",4,1,5,Apartment,SA,Qatar,Doha,Chrome,"January 23, 2017",0
+746120,0,1,0,"January 23, 2017",4,1,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iOS,"January 16, 2017",0
+822782,1,1,0,"April 7, 2017",1,1,0,Suite,SA,Saudi Arabia,Riyadh,iPhoneApp,"April 3, 2017",0
+353462,0,0,1,"July 4, 2017",3,1,3,Hotel Resort,PH,Philippines,Boracay Island,AndroidApp,"July 3, 2017",0
+42064,0,0,0,"August 7, 2017",2,1,3,Apart Hotel,OM,United Arab Emirates,Dubai,iPhoneApp,"July 31, 2017",0
+14942,0,0,0,"July 27, 2017",1,1,4,Hotel,AE,United Arab Emirates,Al Ain,AndroidApp,"July 17, 2017",1
+45480,0,0,1,"June 25, 2017",2,2,3,Apart Hotel,BH,Kuwait,Kuwait City,Chrome,"June 19, 2017",0
+323182,0,0,0,"August 27, 2017",1,1,5,Hotel,LY,United States,Los Angeles,AndroidApp,"August 21, 2017",1
+575772,1,0,0,"October 19, 2017",2,1,3,Hotel,AE,United Arab Emirates,Sharjah,iOS,"October 16, 2017",0
+822908,0,0,0,"July 13, 2017",1,1,3,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"June 5, 2017",1
+384870,0,0,0,"July 30, 2017",1,1,5,Apart Hotel,SA,Jordan,Amman,iPhoneApp,"July 24, 2017",1
+822722,0,1,0,"June 14, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 12, 2017",0
+281578,0,0,0,"September 4, 2017",1,2,5,Hotel,QA,Azerbaijan,Baku,Chrome,"September 4, 2017",0
+16316,1,0,0,"July 22, 2017",3,1,5,Hotel,SA,Kuwait,Salmiyah,iPhoneApp,"June 19, 2017",1
+14252,1,0,1,"February 21, 2017",5,1,5,Hotel,SA,Egypt,Cairo,iPhoneApp,"February 13, 2017",0
+304802,0,0,0,"April 2, 2017",3,1,5,Hotel,SA,Turkey,Bodrum,AndroidApp,"March 26, 2017",0
+734328,0,0,0,"October 1, 2017",5,3,4,Others,SA,United Arab Emirates,Dubai,AndroidApp,"June 12, 2017",0
+874298,1,1,0,"July 21, 2017",2,2,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"July 17, 2017",1
+208576,1,0,1,"July 13, 2017",3,2,4,Hotel,SA,Malaysia,Penang,iPhoneApp,"June 26, 2017",0
+737404,1,0,0,"October 20, 2017",1,1,3,Others,SA,Kuwait,Salmiyah,Chrome,"October 16, 2017",0
+822568,1,1,0,"March 31, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"March 20, 2017",0
+822438,1,1,0,"February 23, 2017",2,1,3,Hotel,SA,Kuwait,Salmiyah,Chrome,"January 9, 2017",0
+822806,1,1,0,"November 3, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"October 30, 2017",0
+57732,1,0,0,"July 5, 2017",10,1,3,Apart Hotel,JO,United Arab Emirates,Dubai,iPhoneApp,"June 26, 2017",1
+235344,0,0,0,"August 21, 2017",1,1,3,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"August 21, 2017",0
+24010,0,0,0,"October 19, 2017",1,3,4,Hotel,AE,United Arab Emirates,Ras Al Khaimah,iPhoneApp,"October 2, 2017",0
+1071782,1,0,0,"March 21, 2018",10,1,4,Hotel,JO,United Arab Emirates,Dubai,AndroidApp,"November 13, 2017",1
+541784,1,0,0,"October 24, 2017",13,1,3,Apart Hotel,SA,Turkey,Istanbul,AndroidApp,"July 10, 2017",1
+19042,1,0,0,"February 15, 2017",3,1,5,Hotel,SA,Turkey,Istanbul,AndroidApp,"February 6, 2017",0
+822494,0,0,0,"March 28, 2017",1,1,3,Apartment,SA,Saudi Arabia,Riyadh,AndroidApp,"March 26, 2017",0
+737730,1,0,0,"February 1, 2017",3,2,4,Others,SA,Sri Lanka,Bentota,iPhoneApp,"January 23, 2017",0
+685812,1,0,0,"March 29, 2017",3,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"March 26, 2017",0
+744458,0,0,0,"January 24, 2017",2,1,5,Hotel,OM,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 16, 2017",0
+673352,1,0,0,"December 2, 2017",2,1,1,Hostel/BackPacker Accommodation,OM,United Arab Emirates,Sharjah,AndroidApp,"November 27, 2017",1
+319682,0,0,0,"August 6, 2017",1,1,5,Hotel Resort,QA,Qatar,Doha,iPhoneApp,"July 17, 2017",0
+331376,0,0,0,"September 19, 2017",1,1,0,Hotel,SA,Turkey,Istanbul,iPhoneApp,"September 18, 2017",0
+21908,0,0,0,"October 9, 2017",4,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"October 9, 2017",0
+757348,0,0,0,"August 1, 2017",2,1,3,Others,SA,Saudi Arabia,Taif,Chrome,"July 24, 2017",0
+42296,1,0,0,"January 5, 2017",2,2,5,Hotel,SA,Saudi Arabia,Madinah,Chrome,"January 2, 2017",1
+14638,1,0,0,"July 27, 2017",2,1,5,Hotel Resort,JO,Jordan,Dead Sea,Chrome,"July 3, 2017",0
+822716,0,1,0,"May 21, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"May 15, 2017",0
+461936,1,0,0,"July 10, 2017",19,1,3,Hotel,IL,Russia,Moscow,Chrome,"June 19, 2017",1
+979990,0,1,0,"December 24, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 18, 2017",1
+24412,0,0,0,"January 22, 2017",5,2,4,Hotel,KW,United Arab Emirates,Dubai,iPhoneApp,"January 16, 2017",1
+327620,1,0,0,"February 24, 2017",5,1,4,Hotel,TN,Tunisia,Midoun,Chrome,"February 20, 2017",0
+32782,1,1,0,"January 27, 2017",1,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 16, 2017",0
+1062172,1,0,0,"November 12, 2017",10,1,3,Hotel,EG,Egypt,Sharm el Sheikh,AndroidApp,"October 30, 2017",0
+744392,0,1,0,"November 23, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"November 20, 2017",0
+14938,1,0,0,"May 25, 2017",2,1,5,Hotel,SA,Qatar,Doha,Chrome,"May 22, 2017",0
+451442,1,0,0,"August 23, 2017",1,3,4,Hotel,SA,Turkey,Istanbul,Chrome,"August 21, 2017",0
+1072956,1,0,0,"June 23, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"June 19, 2017",1
+14556,1,0,0,"April 5, 2017",3,1,4,Hotel,SA,Egypt,Cairo,Chrome,"March 26, 2017",1
+19680,1,0,0,"December 18, 2017",5,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"December 11, 2017",0
+32778,0,1,0,"January 11, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 2, 2017",0
+17144,0,1,0,"August 1, 2017",1,1,3,Hotel,SA,Bahrain,Manama,AndroidApp,"July 31, 2017",0
+23860,0,0,0,"June 20, 2017",1,1,4,Hotel,DE,Saudi Arabia,Jeddah,iPhoneApp,"May 15, 2017",1
+42158,1,0,0,"February 16, 2017",2,1,0,Villa,SA,Saudi Arabia,Jeddah,AndroidApp,"February 6, 2017",0
+31742,0,0,0,"August 16, 2017",1,1,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"August 14, 2017",0
+500070,1,0,0,"February 14, 2017",4,1,4,Hotel,TH,Thailand,Bangkok,Chrome,"February 6, 2017",0
+434622,0,0,1,"September 11, 2017",2,1,5,Hotel,SA,Malaysia,Kuala Lumpur,AndroidApp,"August 28, 2017",0
+42158,0,0,0,"March 16, 2017",1,1,0,Villa,SA,Saudi Arabia,Jeddah,iPhoneApp,"March 13, 2017",0
+822672,0,0,0,"June 12, 2017",3,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 12, 2017",0
+757348,1,0,0,"September 2, 2017",2,1,3,Others,SA,Saudi Arabia,Taif,AndroidApp,"August 28, 2017",0
+333758,1,0,0,"July 8, 2017",2,1,4,Hotel,SA,Indonesia,Jakarta,iPhoneApp,"June 12, 2017",1
+803576,0,0,1,"December 5, 2017",2,1,0,Others,TR,Turkey,Antalya,Chrome,"December 4, 2017",0
+14902,1,0,0,"January 7, 2017",3,2,4,Hotel,KW,Lebanon,Beirut,iPhoneApp,"January 2, 2017",0
+452692,0,0,0,"June 6, 2017",3,1,4,Hotel,JO,Spain,Madrid,Chrome,"March 13, 2017",1
+985632,1,0,1,"September 7, 2017",4,1,2,Hotel,CA,Germany,Frankfurt,iPhoneApp,"August 28, 2017",0
+357474,0,0,0,"October 3, 2017",3,1,0,All Inclusive,SA,Turkey,Bodrum,AndroidApp,"September 18, 2017",0
+24376,1,0,0,"August 3, 2017",5,2,4,Hotel,SA,United Arab Emirates,Dubai,Edge,"July 31, 2017",0
+24838,1,0,0,"February 27, 2017",5,1,4,Apart Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"February 20, 2017",1
+822718,1,1,0,"September 2, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 21, 2017",0
+32094,1,0,0,"September 29, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"September 25, 2017",0
+19424,1,0,0,"September 23, 2017",1,1,5,Hotel,BH,Bahrain,Manama,iPhoneApp,"September 18, 2017",0
+25028,1,0,0,"February 17, 2017",3,1,4,Hotel,OM,United Arab Emirates,Sharjah,AndroidApp,"February 6, 2017",1
+739232,0,0,0,"November 7, 2017",1,1,0,Others,SA,Saudi Arabia,Jeddah,iPhoneApp,"October 30, 2017",1
+40206,0,0,0,"June 21, 2017",1,1,5,Hotel,SA,Morocco,Marrakech,AndroidApp,"June 19, 2017",1
+15104,1,0,0,"March 10, 2017",2,2,5,Hotel,SA,Saudi Arabia,Madinah,Chrome,"March 6, 2017",0
+45292,0,0,0,"May 16, 2017",2,2,4,Hotel,SA,Saudi Arabia,Riyadh,Chrome,"May 1, 2017",1
+19440,0,0,0,"January 24, 2017",3,1,4,Hotel,SA,Bahrain,Manama,iOS,"January 9, 2017",0
+19692,1,0,0,"July 13, 2017",2,1,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 3, 2017",1
+621754,1,0,0,"July 7, 2017",1,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 3, 2017",0
+221014,1,0,0,"March 20, 2017",7,1,4,Hotel,JO,Greece,Athens,Chrome,"February 20, 2017",1
+42356,1,0,0,"June 28, 2017",3,1,4,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"June 26, 2017",1
+42064,0,0,0,"July 31, 2017",2,1,3,Apart Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 24, 2017",1
+744392,0,1,0,"June 26, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"June 26, 2017",0
+242038,0,0,0,"August 14, 2017",1,1,5,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"August 7, 2017",0
+18136,0,0,0,"February 16, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"February 13, 2017",0
+874314,0,1,0,"August 29, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"August 28, 2017",0
+20180,0,0,0,"July 24, 2017",1,4,5,Hotel,PS,Turkey,Marmaris,iPhoneApp,"July 24, 2017",1
+697888,0,0,0,"June 28, 2017",2,1,3,Others,SA,Saudi Arabia,Al Khobar,AndroidApp,"February 20, 2017",1
+17496,0,0,0,"February 27, 2017",1,1,3,Hotel,OM,Oman,Muscat,iPhoneApp,"February 27, 2017",0
+42280,0,0,0,"March 22, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 20, 2017",0
+28666,0,0,1,"September 6, 2017",2,1,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"September 4, 2017",0
+19416,0,0,0,"January 15, 2017",2,1,5,Hotel Resort,SA,Bahrain,Manama,AndroidApp,"January 9, 2017",0
+807056,1,0,0,"November 23, 2017",2,1,3,Others,SA,Saudi Arabia,Madinah,iPhoneApp,"November 20, 2017",0
+375756,1,0,0,"February 4, 2017",1,1,2,Hotel,IL,Spain,Barcelona,AndroidApp,"January 2, 2017",1
+24122,1,0,0,"July 7, 2017",2,1,3,Hotel,OM,United Arab Emirates,Sharjah,iPhoneApp,"July 3, 2017",0
+874278,0,1,0,"July 27, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,Chrome,"July 24, 2017",0
+240392,1,0,0,"September 14, 2017",6,1,4,Hotel,JO,Lebanon,Beirut,iPhoneApp,"September 4, 2017",0
+26760,0,0,0,"July 12, 2017",1,1,4,Hotel,OM,Oman,Muscat,Chrome,"July 10, 2017",0
+822458,1,1,0,"March 17, 2017",2,1,0,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"March 13, 2017",0
+12206,1,0,0,"September 1, 2017",3,1,5,Hotel,JO,Jordan,Amman,iPhoneApp,"August 28, 2017",0
+580930,1,0,0,"June 16, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"June 12, 2017",0
+42064,0,0,0,"August 30, 2017",1,2,3,Apart Hotel,OM,United Arab Emirates,Dubai,iPhoneApp,"June 26, 2017",1
+580930,1,0,0,"June 9, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",0
+16088,0,0,1,"September 6, 2017",1,1,5,Hotel,AE,United Arab Emirates,Al Aqah,iPhoneApp,"September 4, 2017",0
+19646,1,0,0,"February 2, 2017",4,1,5,Hotel,QA,United Arab Emirates,Dubai,iPhoneApp,"January 23, 2017",0
+621754,0,0,0,"August 20, 2017",5,2,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 7, 2017",1
+34904,0,0,1,"March 1, 2017",2,2,5,Hotel,QA,Bahrain,Manama,Chrome,"February 27, 2017",0
+57796,0,0,0,"August 24, 2017",1,1,0,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"August 14, 2017",1
+822738,0,1,0,"January 24, 2017",2,1,5,Hotel Resort,SA,Saudi Arabia,Tabuk,AndroidApp,"January 23, 2017",0
+274014,0,0,0,"January 30, 2018",3,1,4,Hotel,SA,Turkey,Istanbul,iPhoneApp,"December 18, 2017",0
+250882,1,0,0,"July 7, 2017",3,1,3,Apart Hotel,SA,Malaysia,Langkawi,iPhoneApp,"June 12, 2017",0
+15900,1,0,0,"July 13, 2017",2,1,4,Others,SA,Kuwait,Kuwait City,iPhoneApp,"July 3, 2017",1
+14860,1,0,0,"September 21, 2017",2,1,3,Hotel,JO,Jordan,Aqaba,Chrome,"September 18, 2017",0
+822806,1,0,0,"June 28, 2017",5,1,4,Apart Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"June 19, 2017",1
+874278,1,1,0,"August 26, 2017",3,1,0,Suite,SA,Saudi Arabia,Jeddah,AndroidApp,"August 14, 2017",1
+822438,0,0,0,"February 14, 2017",2,1,3,Hotel,SA,Kuwait,Salmiyah,Chrome,"February 13, 2017",0
+744498,1,1,0,"June 9, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 5, 2017",0
+25900,1,0,0,"January 8, 2018",8,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"December 25, 2017",0
+355768,1,0,0,"August 26, 2017",2,1,2,Hotel,IQ,France,Paris,iPhoneApp,"August 14, 2017",0
+250502,1,0,1,"March 9, 2017",2,1,3,Hotel,AE,United Arab Emirates,Al-Fujairah,iPhoneApp,"February 27, 2017",0
+722242,1,0,0,"February 24, 2017",1,2,3,Others,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"February 20, 2017",0
+25816,1,0,0,"January 27, 2017",6,1,3,Hotel,SA,United Arab Emirates,Dubai,AndroidOS,"January 9, 2017",0
+757348,0,0,0,"August 28, 2017",1,1,3,Others,SA,Saudi Arabia,Taif,iOS,"August 14, 2017",0
+24934,1,0,0,"March 27, 2017",7,1,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"March 20, 2017",0
+26348,1,0,0,"February 17, 2017",1,1,5,Hotel,IL,Palestine,Ramallah and Al-Bireh,AndroidOS,"January 9, 2017",0
+315910,1,0,0,"April 14, 2017",2,2,1,Hotel,OM,United Arab Emirates,Dubai,iPhoneApp,"April 10, 2017",0
+874278,0,1,0,"August 29, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,AndroidApp,"August 28, 2017",0
+342134,0,0,1,"August 15, 2017",1,1,2,Hostel/BackPacker Accommodation,IL,United Kingdom,London,Chrome,"January 16, 2017",1
+243876,0,0,0,"March 26, 2017",4,1,4,Hotel,MY,Malaysia,Kuala Lumpur,AndroidApp,"March 20, 2017",0
+34002,0,0,0,"December 6, 2017",1,1,5,Hotel,SA,Bahrain,Manama,iPhoneApp,"December 4, 2017",1
+809054,1,0,0,"March 31, 2017",6,1,0,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"March 26, 2017",0
+42288,0,0,0,"June 27, 2017",1,1,3,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"June 26, 2017",1
+784078,0,0,0,"June 13, 2017",1,1,3,Others,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 8, 2017",1
+16392,1,0,0,"August 30, 2017",3,1,5,Hotel,SA,Kuwait,Fahaheel,iPhoneApp,"August 28, 2017",0
+287946,1,0,0,"August 15, 2017",13,1,5,All Inclusive,SA,Turkey,Antalya,iPhoneApp,"June 5, 2017",1
+19042,1,0,0,"October 13, 2017",2,1,5,Hotel,AE,Turkey,Istanbul,Chrome,"October 9, 2017",0
+402050,0,0,0,"February 27, 2017",1,1,3,Hotel,BH,United Arab Emirates,Abu Dhabi,AndroidApp,"February 27, 2017",0
+514724,1,0,1,"September 5, 2017",7,1,3,Apart Hotel,SA,Indonesia,Jakarta,iPhoneApp,"August 28, 2017",1
+24478,0,0,0,"August 13, 2017",1,1,3,Hotel,SA,United Arab Emirates,Dubai,Chrome,"August 7, 2017",0
+57432,1,0,0,"September 2, 2017",2,1,3,Hotel,SA,Saudi Arabia,Abha,iPhoneApp,"August 28, 2017",0
+822534,0,1,0,"April 3, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Madinah,Chrome,"April 3, 2017",0
+979040,1,0,0,"August 1, 2017",5,1,0,Apartment,SA,United Arab Emirates,Dubai,Chrome,"July 31, 2017",0
+815030,0,1,0,"January 24, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Dammam,Chrome,"January 16, 2017",0
+15210,0,0,0,"September 14, 2017",1,1,5,Hotel,SA,United Arab Emirates,Abu Dhabi,IE,"September 11, 2017",0
+1069346,0,0,0,"June 26, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 19, 2017",0
+322616,1,0,0,"July 6, 2017",2,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"June 26, 2017",1
+14758,0,0,1,"August 21, 2017",1,1,5,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"August 21, 2017",0
+822708,1,1,0,"June 29, 2017",3,1,2,Hotel,AU,Jordan,Amman,AndroidApp,"March 13, 2017",1
+255660,0,0,1,"May 2, 2017",1,2,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"May 1, 2017",0
+40204,1,0,0,"April 20, 2017",2,1,3,Apart Hotel,KW,Morocco,Marrakech,iPhoneApp,"January 16, 2017",0
+204368,1,0,0,"March 17, 2017",2,1,5,Hotel,SA,Malaysia,Kuala Lumpur,iPhoneApp,"March 6, 2017",1
+46008,0,0,0,"January 22, 2017",5,2,4,Hotel,QA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 16, 2017",0
+874278,1,1,0,"April 27, 2017",2,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"April 24, 2017",1
+30946,1,1,0,"June 9, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",0
+46008,0,0,0,"January 23, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 23, 2017",0
+20294,1,0,0,"March 18, 2017",4,1,4,Hotel,PS,Turkey,Istanbul,iPhoneApp,"March 13, 2017",0
+24560,0,0,0,"July 20, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 17, 2017",1
+744466,0,0,0,"August 16, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 14, 2017",0
+23568,1,0,0,"April 12, 2017",3,2,5,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"April 3, 2017",0
+406394,0,0,1,"October 25, 2017",2,1,4,Hotel Resort,PS,Thailand,Ko Phi Phi,Chrome,"October 9, 2017",0
+16166,0,0,0,"July 17, 2017",1,1,4,Hotel Resort,SA,Bahrain,Manama,iPhoneApp,"June 5, 2017",0
+42332,0,0,0,"October 19, 2017",1,1,3,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"October 16, 2017",0
+17548,0,0,0,"April 2, 2017",2,2,4,Hotel,SA,Qatar,Doha,iPhoneApp,"March 26, 2017",1
+1006912,0,0,0,"September 4, 2017",1,2,2,Apart Hotel,SA,Saudi Arabia,Hail,iPhoneApp,"September 4, 2017",1
+46008,1,0,0,"June 9, 2017",3,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",1
+16082,0,0,0,"July 16, 2017",3,1,5,Hotel Resort,SA,United Arab Emirates,Al-Fujairah,Chrome,"July 10, 2017",0
+42072,0,0,0,"January 29, 2017",2,1,4,Hostel/BackPacker Accommodation,OM,United Arab Emirates,Dubai,AndroidApp,"January 23, 2017",0
+664310,0,0,1,"November 5, 2017",1,1,0,Hotel Resort,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"October 30, 2017",0
+19440,1,0,0,"April 7, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"March 26, 2017",1
+874298,1,1,0,"October 19, 2017",3,1,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"October 9, 2017",1
+682320,1,0,0,"February 24, 2017",3,1,0,Others,SA,United Arab Emirates,Dubai,iPhoneApp,"February 6, 2017",1
+744498,0,1,0,"June 14, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 12, 2017",1
+16166,1,0,0,"June 28, 2017",3,1,4,Hotel Resort,SA,Bahrain,Manama,iOS,"June 5, 2017",1
+381330,0,0,0,"August 28, 2017",1,1,5,Hotel,SA,Saudi Arabia,Gizan,AndroidApp,"August 28, 2017",1
+56884,0,0,0,"June 28, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"June 19, 2017",1
+31062,1,0,0,"October 7, 2017",4,1,4,Hotel,TN,Saudi Arabia,Makkah (Mecca),Chrome,"October 2, 2017",0
+14992,0,0,1,"July 9, 2017",1,1,5,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 5, 2017",1
+751900,0,0,0,"January 31, 2017",2,4,3,Others,SA,Saudi Arabia,Jeddah,iPhoneApp,"January 30, 2017",0
+482248,1,0,1,"September 20, 2017",4,2,4,Hotel,KW,Turkey,Istanbul,Chrome,"September 18, 2017",0
+30786,0,1,0,"July 20, 2017",1,1,3,Hotel Resort,SA,Saudi Arabia,Al Khobar,iPhoneApp,"July 17, 2017",0
+32094,0,0,0,"April 4, 2017",2,2,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"April 3, 2017",0
+19740,1,0,0,"March 25, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 20, 2017",0
+17948,0,1,0,"June 27, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"June 26, 2017",1
+14880,1,0,0,"February 2, 2017",3,1,5,Hotel,SA,Lebanon,Beirut,iPhoneApp,"January 16, 2017",0
+14688,0,0,1,"October 18, 2017",2,1,4,Hotel,OM,United Arab Emirates,Sharjah,Chrome,"October 16, 2017",0
+243998,0,0,1,"September 13, 2017",1,1,4,Hotel,OM,Indonesia,Jakarta,Chrome,"September 11, 2017",0
+15184,0,0,0,"June 22, 2017",1,1,5,Hotel,AE,United Arab Emirates,Dubai,AndroidApp,"June 19, 2017",0
+22982,1,0,0,"April 27, 2017",2,2,5,Hotel,SA,Saudi Arabia,Taif,AndroidApp,"April 24, 2017",0
+42242,0,0,0,"March 8, 2017",1,1,4,Hotel,SA,Bahrain,Manama,AndroidApp,"March 6, 2017",0
+728566,1,0,0,"October 12, 2017",5,1,0,Others,SA,United Arab Emirates,Dubai,AndroidApp,"October 9, 2017",0
+822424,1,0,0,"April 7, 2017",1,1,4,Suite,SA,Saudi Arabia,Al Khobar,Chrome,"March 20, 2017",0
+12142,1,0,0,"August 24, 2017",3,1,5,Hotel,JO,Egypt,Cairo,Chrome,"August 14, 2017",0
+24478,0,0,0,"April 2, 2017",5,1,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 20, 2017",0
+12234,1,0,0,"February 23, 2017",3,1,5,Hotel,SA,Jordan,Amman,Chrome,"February 20, 2017",0
+822806,1,0,0,"June 16, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"June 12, 2017",0
+15948,1,0,0,"January 27, 2017",7,1,4,Hotel,QA,Kuwait,Kuwait City,Chrome,"January 23, 2017",0
+19440,1,0,0,"December 15, 2017",1,2,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"December 11, 2017",0
+588310,1,0,0,"September 15, 2017",1,1,5,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"September 11, 2017",0
+32838,1,1,0,"July 7, 2017",1,1,4,Hotel,PS,Palestine,Ramallah and Al-Bireh,iPhoneApp,"July 3, 2017",0
+18182,1,0,0,"May 20, 2017",2,1,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"May 15, 2017",0
+15134,0,0,0,"August 15, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"August 14, 2017",0
+1032062,0,0,1,"October 16, 2017",1,1,4,Hotel,GB,United Kingdom,London,Chrome,"October 9, 2017",0
+265120,0,0,1,"May 15, 2017",1,1,3,Hotel,KW,Malaysia,Kuala Lumpur,AndroidApp,"May 8, 2017",0
+1019114,0,0,0,"September 3, 2017",2,1,0,Hotel,GB,Turkey,Istanbul,Chrome,"August 21, 2017",1
+19540,1,0,1,"October 7, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"October 2, 2017",0
+1060698,1,0,0,"June 24, 2017",4,4,3,Apart Hotel,SA,Saudi Arabia,Al Jubail,AndroidApp,"June 5, 2017",0
+757348,0,0,0,"July 26, 2017",1,1,3,Others,SA,Saudi Arabia,Taif,iPhoneApp,"June 26, 2017",0
+31356,0,0,0,"April 26, 2017",2,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"March 6, 2017",0
+14830,0,0,0,"March 16, 2017",1,1,5,Hotel,SA,Egypt,Sharm el Sheikh,AndroidApp,"March 13, 2017",0
+874314,0,1,0,"August 15, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 14, 2017",1
+780180,1,0,0,"September 2, 2017",2,1,2,Others,SA,Malaysia,Tanah Rata,AndroidApp,"August 28, 2017",0
+16166,0,0,0,"July 23, 2017",1,1,4,Hotel Resort,SA,Bahrain,Manama,iPhoneApp,"July 10, 2017",1
+581454,0,0,0,"April 26, 2017",2,1,3,Apartment,SA,Saudi Arabia,Riyadh,iPhoneApp,"April 17, 2017",0
+24668,1,0,0,"March 31, 2017",6,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 13, 2017",1
+18316,1,0,0,"June 24, 2017",5,1,4,Apart Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"June 19, 2017",1
+14540,1,0,0,"January 8, 2018",8,2,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"December 4, 2017",0
+874278,1,1,0,"April 29, 2017",5,1,0,Suite,SA,Saudi Arabia,Jeddah,Chrome,"April 24, 2017",0
+30354,0,0,0,"August 15, 2017",1,1,5,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"August 14, 2017",0
+14964,0,0,0,"April 3, 2017",1,1,5,Hotel,SA,Qatar,Doha,AndroidApp,"April 3, 2017",0
+822458,1,1,0,"March 31, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"March 26, 2017",0
+744520,0,0,0,"October 17, 2017",1,1,5,Hotel,PS,Jordan,Amman,AndroidApp,"October 16, 2017",1
+41084,1,0,0,"September 12, 2017",5,1,5,Hotel,SA,Turkey,Istanbul,AndroidApp,"September 11, 2017",0
+580930,1,0,0,"March 30, 2017",2,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"March 26, 2017",0
+393916,1,0,0,"July 7, 2017",13,1,3,Hotel,AE,Thailand,Bangkok,iPhoneApp,"June 26, 2017",0
+722242,0,0,0,"October 10, 2017",1,1,3,Others,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"October 9, 2017",0
+42338,1,0,0,"July 7, 2017",3,2,5,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"July 3, 2017",0
+33418,0,0,0,"August 27, 2017",1,1,4,Hotel Resort,JO,Jordan,Dead Sea,iPhoneApp,"August 21, 2017",0
+874278,1,1,0,"October 6, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"October 2, 2017",0
+446250,0,0,1,"December 4, 2017",3,1,4,Hotel,JO,United Arab Emirates,Dubai,iPhoneApp,"November 27, 2017",0
+31714,1,0,0,"June 7, 2017",3,1,5,Hotel,QA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 29, 2017",1
+27824,1,0,1,"December 10, 2017",9,2,4,Hotel,PS,Turkey,Istanbul,Chrome,"November 13, 2017",0
+979998,1,1,0,"November 23, 2017",3,1,0,Apartment,SA,Saudi Arabia,Jeddah,iPhoneApp,"November 20, 2017",0
+22988,0,0,0,"April 3, 2017",3,2,3,Hotel,SA,Saudi Arabia,Dammam,Chrome,"April 3, 2017",0
+822718,0,1,0,"June 19, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 19, 2017",0
+46008,1,0,0,"June 1, 2017",3,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iOS,"May 29, 2017",0
+15102,1,0,1,"October 18, 2017",6,1,4,Hotel,PS,Egypt,Cairo,AndroidApp,"October 9, 2017",1
+802804,0,0,1,"August 8, 2017",2,1,5,Others,OM,Oman,Salalah,AndroidApp,"June 5, 2017",0
+772254,1,0,0,"July 10, 2017",7,1,3,Others,KW,Georgia,Tbilisi,iPhoneApp,"July 3, 2017",1
+819082,1,1,0,"June 24, 2017",5,1,3,Hotel,SA,Saudi Arabia,Dammam,Chrome,"June 12, 2017",1
+45014,1,0,1,"July 21, 2017",1,1,5,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"July 17, 2017",0
+301572,0,0,1,"September 3, 2017",2,2,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"August 21, 2017",0
+822672,1,0,0,"May 2, 2017",9,1,0,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"April 24, 2017",1
+17276,0,0,0,"September 17, 2017",4,1,5,Hotel,TR,Turkey,Istanbul,iPhoneApp,"September 11, 2017",1
+16182,0,0,0,"June 29, 2017",1,1,5,Hotel,SA,Jordan,Dead Sea,iPhoneApp,"June 26, 2017",0
+30970,1,1,0,"May 5, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 1, 2017",0
+822668,0,0,0,"March 26, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"March 20, 2017",0
+31722,1,1,0,"May 5, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 1, 2017",0
+24838,0,0,0,"July 20, 2017",1,1,4,Apart Hotel,AE,United Arab Emirates,Dubai,Chrome,"July 17, 2017",0
+37608,1,0,0,"March 30, 2017",7,1,4,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"March 26, 2017",0
+15120,0,0,0,"June 6, 2017",3,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",0
+227500,1,0,1,"January 8, 2018",12,1,4,Hotel,PS,Italy,Rome,Chrome,"December 11, 2017",1
+43938,1,0,1,"June 15, 2017",2,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"June 5, 2017",0
+42064,1,1,0,"December 2, 2017",1,1,3,Apart Hotel,SA,United Arab Emirates,Dubai,Chrome,"November 27, 2017",0
+979998,0,1,0,"December 21, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,AndroidApp,"December 18, 2017",0
+692246,0,0,0,"January 30, 2017",1,1,3,Others,OM,Oman,Muscat,AndroidApp,"January 30, 2017",0
+822672,0,0,0,"April 4, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"April 3, 2017",0
+815190,0,0,0,"June 25, 2017",2,2,2,Apart Hotel,SA,Saudi Arabia,Yanbu,AndroidApp,"June 19, 2017",0
+30810,0,0,0,"January 24, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"January 23, 2017",0
+822764,0,1,0,"February 20, 2017",1,2,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"February 20, 2017",0
+460942,1,0,0,"October 7, 2017",2,1,4,Apart Hotel,SA,Greece,Santorini,Safari,"June 12, 2017",1
+744498,0,1,0,"June 18, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 12, 2017",1
+45438,1,0,0,"September 23, 2017",1,1,4,Apartment,SA,Saudi Arabia,Riyadh,iPhoneApp,"September 18, 2017",1
+31062,1,0,0,"January 30, 2017",5,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 30, 2017",0
+814194,0,0,0,"December 19, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 18, 2017",1
+819082,1,1,0,"September 22, 2017",2,1,3,Hotel,SA,Saudi Arabia,Dammam,AndroidApp,"September 18, 2017",0
+822948,0,1,0,"April 27, 2017",1,1,0,Apartment,SA,Saudi Arabia,Yanbu,iPhoneApp,"April 24, 2017",1
+19562,1,0,0,"May 18, 2017",2,1,4,Hotel Resort,SA,Bahrain,Manama,iPhoneApp,"May 15, 2017",0
+42052,0,0,0,"January 23, 2017",4,2,3,Hotel,SA,United Arab Emirates,Dubai,Chrome,"January 23, 2017",1
+467978,0,0,0,"August 14, 2017",2,3,4,Hotel,TR,Turkey,Istanbul,Chrome,"August 14, 2017",0
+18438,1,0,0,"June 8, 2017",5,1,3,Hotel,LY,Tunisia,Tunis,iPhoneApp,"June 5, 2017",1
+710302,0,0,0,"January 23, 2017",2,1,0,Others,JO,Jordan,Aqaba,AndroidApp,"January 23, 2017",0
+34896,0,1,0,"August 10, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 7, 2017",0
+1027986,1,0,0,"July 14, 2017",3,1,5,Hotel Resort,SA,Qatar,Mesaieed,iPhoneApp,"July 10, 2017",1
+242038,1,0,0,"September 8, 2017",1,1,5,Hotel,SA,United Arab Emirates,Abu Dhabi,AndroidApp,"August 7, 2017",0
+682428,1,0,0,"March 2, 2017",3,1,5,Others,SA,Qatar,Doha,iPhoneApp,"February 20, 2017",0
+408156,0,0,0,"July 23, 2017",2,2,5,Hotel,SA,Turkey,Istanbul,Chrome,"July 10, 2017",0
+56878,0,0,0,"November 23, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,Safari,"November 13, 2017",0
+436102,1,0,0,"August 13, 2017",6,2,0,Apart Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 17, 2017",1
+1069216,1,0,0,"June 28, 2017",4,1,3,Villa,SA,Saudi Arabia,Taif,iPhoneApp,"June 19, 2017",0
+24122,1,0,0,"July 14, 2017",1,2,3,Hotel,SA,United Arab Emirates,Sharjah,AndroidApp,"July 10, 2017",0
+44810,0,0,0,"September 14, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,AndroidApp,"September 11, 2017",0
+28560,1,1,0,"January 25, 2017",3,1,2,Hotel,SA,Saudi Arabia,Al Khobar,Chrome,"January 16, 2017",0
+14658,0,0,0,"May 11, 2017",1,1,5,Hotel Resort,PS,Jordan,Dead Sea,Chrome,"May 1, 2017",0
+370752,1,0,0,"August 30, 2017",5,1,4,All Inclusive,IL,Turkey,Antalya,iPhoneApp,"August 14, 2017",1
+822668,0,1,0,"February 12, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"February 6, 2017",0
+756056,0,1,0,"November 30, 2017",1,1,4,Others,SA,Saudi Arabia,Riyadh,iPhoneApp,"November 27, 2017",0
+809054,0,0,0,"June 25, 2017",4,1,0,Apart Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"June 12, 2017",1
+32960,1,0,0,"January 13, 2017",1,1,4,Hotel,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"January 9, 2017",0
+769614,0,0,0,"April 6, 2017",1,1,4,Hotel,BH,Bahrain,Manama,iPhoneApp,"April 3, 2017",0
+23444,1,0,0,"June 26, 2017",5,1,4,Apartment,SA,Bahrain,Manama,iPhoneApp,"May 8, 2017",1
+715444,1,0,0,"March 9, 2017",4,1,3,Others,JO,Egypt,Alexandria,AndroidApp,"February 13, 2017",0
+14852,0,0,0,"June 28, 2017",1,1,5,Hotel Resort,PS,Jordan,Aqaba,AndroidApp,"June 26, 2017",1
+757348,0,0,0,"July 4, 2017",1,1,3,Others,SA,Saudi Arabia,Taif,iPhoneApp,"July 3, 2017",0
+42250,0,0,1,"November 9, 2017",1,1,4,Hotel,SA,Bahrain,Manama,Chrome,"November 6, 2017",0
+473360,1,0,0,"March 25, 2017",1,3,3,Hotel,DE,France,Paris,Chrome,"March 20, 2017",0
+744458,0,0,0,"February 2, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 23, 2017",1
+387764,0,0,0,"September 11, 2017",3,1,2,Apart Hotel,PS,Cyprus,Ayia Napa,Chrome,"July 10, 2017",0
+42066,1,0,0,"August 20, 2017",7,2,4,Hotel,BH,United Arab Emirates,Dubai,iPhoneApp,"July 10, 2017",0
+498914,0,0,1,"September 27, 2017",1,1,2,Hotel,OM,United States,Staten Island,AndroidApp,"August 21, 2017",1
+580930,0,0,0,"June 18, 2017",3,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 12, 2017",1
+470498,0,0,0,"June 25, 2017",5,2,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"June 19, 2017",0
+472146,0,0,0,"April 19, 2017",1,1,5,Hotel,TN,Tunisia,La Marsa,Chrome,"April 17, 2017",0
+30718,0,0,0,"June 13, 2017",1,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 12, 2017",0
+396674,0,0,0,"January 31, 2017",2,1,3,Hotel,PK,Spain,Barcelona,AndroidOS,"January 23, 2017",0
+24086,1,0,0,"April 1, 2017",7,1,4,Hotel,SA,United Arab Emirates,Sharjah,Chrome,"March 26, 2017",0
+22910,1,0,0,"July 7, 2017",2,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"July 3, 2017",0
+20722,0,0,0,"March 26, 2017",1,1,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"March 13, 2017",1
+42352,0,0,0,"July 2, 2017",1,1,4,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"June 26, 2017",0
+15138,0,0,1,"November 12, 2017",2,1,5,Hotel,KW,Saudi Arabia,Makkah (Mecca),iPhoneApp,"October 30, 2017",0
+1051410,0,0,1,"September 5, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Al Ahsa,iPhoneApp,"September 4, 2017",0
+17156,0,0,1,"September 24, 2017",1,1,5,Apart Hotel,SA,Bahrain,Manama,iPhoneApp,"September 4, 2017",1
+874352,0,1,0,"October 3, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"October 2, 2017",0
+475336,0,0,1,"January 12, 2017",1,1,3,Hotel,SA,Philippines,Manila,iPhoneApp,"January 9, 2017",0
+30946,0,1,0,"February 7, 2017",2,1,4,Hotel,JO,Saudi Arabia,Makkah (Mecca),AndroidOS,"January 30, 2017",0
+207880,1,0,0,"February 24, 2017",1,1,3,Hotel,BH,United States,Colorado Springs,iOS,"February 20, 2017",0
+45460,0,0,0,"March 30, 2017",1,2,4,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"March 26, 2017",0
+874278,0,1,0,"June 20, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 19, 2017",0
+14858,0,0,0,"June 27, 2017",1,1,4,Hotel Resort,JO,Jordan,Aqaba,iPhoneApp,"June 26, 2017",0
+290882,1,0,0,"September 10, 2017",9,1,5,Hotel,SA,Malaysia,Kuala Lumpur,AndroidApp,"August 7, 2017",1
+19634,0,0,0,"October 3, 2017",1,1,3,Hotel,AE,United Arab Emirates,Dubai,Chrome,"October 2, 2017",0
+24560,1,0,0,"May 4, 2017",2,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"March 6, 2017",0
+396466,1,0,1,"September 14, 2017",3,1,5,Hotel,SA,United Arab Emirates,Dubai,Chrome,"September 11, 2017",0
+30926,0,0,0,"March 29, 2017",1,1,2,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 26, 2017",0
+508032,1,0,0,"September 3, 2017",9,1,3,Apartment,KW,Turkey,Istanbul,iPhoneApp,"August 28, 2017",1
+660038,0,0,0,"April 3, 2017",1,2,5,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"April 3, 2017",0
+1060190,1,0,0,"June 13, 2017",4,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"June 5, 2017",0
+822764,0,1,0,"April 19, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"April 3, 2017",0
+28556,1,0,0,"September 21, 2017",3,1,3,Apartment,SA,Saudi Arabia,Al Khobar,iPhoneApp,"September 18, 2017",0
+31742,1,0,0,"September 30, 2017",1,1,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"September 25, 2017",0
+822764,1,1,0,"June 26, 2017",10,1,2,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 19, 2017",1
+339304,1,0,0,"February 23, 2017",4,1,2,Hotel,MY,Malaysia,Kuala Lumpur,AndroidApp,"February 20, 2017",0
+822458,0,1,0,"January 30, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"January 30, 2017",0
+17862,0,1,0,"March 13, 2017",1,3,3,Hotel,SA,Jordan,Amman,AndroidApp,"March 13, 2017",1
+722242,1,0,0,"October 19, 2017",4,1,3,Others,SA,Saudi Arabia,Makkah (Mecca),Chrome,"September 25, 2017",1
+297972,0,0,0,"August 15, 2017",3,1,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"July 24, 2017",1
+42288,1,0,0,"April 15, 2017",1,1,3,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"April 10, 2017",0
+293168,1,0,0,"October 5, 2017",11,1,0,Hotel,SA,Turkey,Istanbul,iPhoneApp,"June 26, 2017",1
+16036,1,0,0,"January 26, 2017",5,2,4,Hotel,OM,United Arab Emirates,Sharjah,AndroidApp,"January 16, 2017",1
+291882,1,0,0,"August 30, 2017",6,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 21, 2017",1
+761650,0,0,0,"August 1, 2017",2,1,3,Others,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"July 24, 2017",1
+699146,0,0,0,"October 15, 2017",1,1,3,Hotel,OM,United Arab Emirates,Dubai,AndroidApp,"October 9, 2017",0
+760882,1,0,1,"November 24, 2017",1,1,5,Others,OM,Oman,Sayq,AndroidApp,"November 13, 2017",0
+1192348,0,0,0,"December 21, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"December 18, 2017",0
+17986,0,0,0,"January 30, 2017",1,3,3,Hotel,SA,Qatar,Doha,Chrome,"January 23, 2017",0
+15148,1,0,0,"April 26, 2017",3,1,4,Hotel,IQ,United Arab Emirates,Dubai,AndroidApp,"April 3, 2017",1
+439282,1,0,0,"July 22, 2017",6,1,0,Hotel,TR,Turkey,Istanbul,Chrome,"July 3, 2017",0
+24560,0,0,0,"June 27, 2017",1,1,4,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"June 5, 2017",1
+32778,0,1,0,"February 13, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"February 13, 2017",0
+30768,0,0,0,"June 7, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"May 1, 2017",0
+32970,1,0,0,"August 8, 2017",6,2,3,Hotel,EG,Egypt,Dahab,iPhoneApp,"June 26, 2017",1
+19634,0,0,0,"April 23, 2017",4,1,3,Hotel,SA,United Arab Emirates,Dubai,Chrome,"April 10, 2017",1
+23368,1,0,1,"October 28, 2017",1,1,3,Hotel,IL,Palestine,Jerusalem,Chrome,"October 23, 2017",0
+744530,0,1,0,"September 11, 2017",1,1,3,Suite,PS,Jordan,Amman,AndroidApp,"September 4, 2017",0
+18380,1,0,0,"March 30, 2017",2,1,3,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"March 26, 2017",0
+518714,1,0,0,"April 22, 2017",7,1,5,Hotel,KW,Germany,Aschau im Chiemgau,iPhoneApp,"April 17, 2017",0
+765302,0,0,0,"March 1, 2017",2,2,5,Hotel,SA,Kuwait,Salmiyah,AndroidApp,"February 27, 2017",0
+12142,1,0,0,"January 30, 2017",6,1,5,Hotel,SA,Egypt,Cairo,iPhoneApp,"January 30, 2017",0
+15946,0,0,0,"July 5, 2017",2,1,4,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"July 3, 2017",0
+42062,1,0,0,"October 21, 2017",1,1,4,Apart Hotel,LB,United Arab Emirates,Dubai,iPhoneApp,"October 16, 2017",0
+1006516,1,0,0,"September 29, 2017",1,1,3,Apart Hotel,SA,Saudi Arabia,Gizan,iPhoneApp,"September 25, 2017",1
+32838,0,1,0,"December 11, 2017",2,2,4,Hotel,PS,Palestine,Ramallah and Al-Bireh,AndroidApp,"December 4, 2017",0
+23566,1,0,0,"June 22, 2017",5,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 5, 2017",0
+19546,1,0,0,"March 10, 2017",1,1,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"February 27, 2017",0
+43440,0,1,0,"February 12, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,iPhoneApp,"February 6, 2017",1
+15946,1,0,0,"November 30, 2017",2,1,4,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"November 27, 2017",0
+231174,0,0,0,"June 26, 2017",2,2,4,Hotel,PS,Germany,Munich,Chrome,"May 8, 2017",0
+723612,1,0,0,"August 31, 2017",6,1,0,Others,SA,Turkey,Sapanca,AndroidApp,"July 17, 2017",1
+253124,1,0,0,"August 16, 2017",4,1,3,Hotel,SA,Turkey,Antalya,iPhoneApp,"August 14, 2017",1
+822762,1,1,0,"August 3, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"July 31, 2017",0
+284730,0,0,1,"March 21, 2017",2,1,3,Hotel,SE,Sweden,Stockholm,Chrome,"March 13, 2017",0
+722242,0,0,0,"December 31, 2017",1,1,3,Others,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"December 25, 2017",0
+251388,0,0,0,"March 21, 2017",2,1,4,Hotel,SA,Turkey,Istanbul,Chrome,"March 20, 2017",1
+219412,1,0,0,"September 22, 2017",1,1,4,Hotel,EG,Egypt,Alexandria,AndroidApp,"September 18, 2017",0
+551842,1,0,0,"March 9, 2017",3,1,4,Apart Hotel,KW,United Arab Emirates,Ajman,AndroidApp,"March 6, 2017",0
+218036,1,0,0,"July 21, 2017",3,1,4,Hotel Resort,AE,Thailand,Koh Samui,AndroidApp,"July 17, 2017",0
+367124,1,0,0,"September 10, 2017",10,1,4,Hotel,SA,Austria,Kaprun,iPhoneApp,"June 12, 2017",1
+15150,0,0,1,"July 10, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"July 10, 2017",0
+822672,1,0,0,"June 9, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,Chrome,"June 5, 2017",0
+200806,1,0,1,"September 20, 2017",3,1,4,Hotel,KW,United States,San Francisco,iPhoneApp,"September 11, 2017",0
+408156,1,0,1,"August 25, 2017",5,1,5,Hotel,SA,Turkey,Istanbul,iPhoneApp,"August 21, 2017",0
+381330,1,0,0,"January 19, 2017",2,1,5,Hotel,SA,Saudi Arabia,Gizan,Chrome,"January 16, 2017",0
+1086290,0,0,0,"December 24, 2017",3,2,4,Hotel,AE,Saudi Arabia,Jeddah,AndroidApp,"December 18, 2017",1
+549840,0,0,1,"August 8, 2017",1,2,4,Hotel,QA,Turkey,Bursa,AndroidApp,"August 7, 2017",1
+519404,1,0,0,"December 1, 2017",9,1,1,Hotel,LY,Netherlands,Amsterdam,Chrome,"October 30, 2017",0
+15138,0,0,0,"April 18, 2017",1,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),Chrome,"April 17, 2017",0
+503294,1,0,0,"March 18, 2017",7,1,4,Apartment,SA,United Arab Emirates,Dubai,AndroidApp,"February 20, 2017",0
+1072450,0,0,0,"July 24, 2017",2,1,4,Hotel,SA,Sri Lanka,Colombo,iPhoneApp,"July 10, 2017",1
+15136,1,0,0,"June 18, 2017",6,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"April 10, 2017",1
+14940,1,0,0,"October 14, 2017",1,1,4,Hotel,AE,United Arab Emirates,Al Ain,Chrome,"October 9, 2017",0
+42064,1,0,0,"January 11, 2017",3,1,3,Apart Hotel,SA,United Arab Emirates,Dubai,AndroidApp,"January 2, 2017",0
+470498,0,1,0,"August 7, 2017",2,2,4,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"August 7, 2017",0
+822458,0,1,0,"January 25, 2017",1,1,0,Hotel,SA,Saudi Arabia,Madinah,iPhoneApp,"January 16, 2017",1
+11176,0,0,0,"June 26, 2017",1,1,4,Hotel,KW,Jordan,Amman,iPhoneApp,"June 19, 2017",1
+14638,0,0,0,"September 3, 2017",4,2,5,Hotel Resort,PS,Jordan,Dead Sea,Chrome,"August 7, 2017",0
+319682,0,0,0,"August 20, 2017",1,5,5,Hotel Resort,SA,Qatar,Doha,AndroidApp,"August 14, 2017",0
+30768,1,0,0,"September 28, 2017",2,1,5,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"September 25, 2017",1
+24946,0,0,0,"July 9, 2017",5,1,5,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"July 3, 2017",0
+647640,1,0,0,"April 15, 2017",1,1,3,Hotel,SA,Qatar,Doha,Chrome,"April 10, 2017",1
+14758,1,0,0,"June 24, 2017",3,2,5,Hotel,KW,United Arab Emirates,Abu Dhabi,AndroidApp,"June 5, 2017",0
+14338,1,0,0,"July 24, 2017",7,1,5,Hotel,SA,Egypt,Cairo,iPhoneApp,"July 24, 2017",0
+20796,0,1,0,"August 21, 2017",1,1,1,Hotel,PS,Jordan,Amman,AndroidApp,"August 21, 2017",1
+11272,1,0,0,"July 21, 2017",3,1,4,Hotel,KW,Lebanon,Beirut,iPhoneApp,"June 26, 2017",0
+31356,0,1,0,"January 24, 2017",1,2,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 23, 2017",0
+714388,0,1,0,"August 21, 2017",1,1,4,Hotel,JO,Jordan,Amman,iPhoneApp,"August 21, 2017",0
+31372,1,0,0,"January 28, 2017",7,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"January 23, 2017",0
+719226,1,0,1,"August 30, 2017",6,1,5,Others,PS,Greece,Rhodes,Chrome,"August 21, 2017",0
+23502,0,0,1,"March 15, 2017",2,1,5,Hotel,SA,United Arab Emirates,Dubai,Chrome,"March 6, 2017",0
+16346,0,0,0,"May 24, 2017",1,1,5,Hotel,AE,Kuwait,Kuwait City,iPhoneApp,"May 22, 2017",1
+38328,1,0,0,"August 5, 2017",5,1,3,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"July 17, 2017",1
+683404,0,0,0,"August 30, 2017",1,1,4,Others,MM,Indonesia,Palembang,Firefox,"August 28, 2017",0
+621754,0,0,0,"September 7, 2017",1,2,3,Hotel,KW,United Arab Emirates,Dubai,AndroidApp,"August 28, 2017",0
+250368,0,0,0,"September 20, 2017",2,1,3,Hotel,SA,Philippines,Makati,iPhoneApp,"August 28, 2017",0
+744530,1,1,0,"August 19, 2017",3,1,3,Suite,QA,Jordan,Amman,Chrome,"August 14, 2017",0
+57114,0,0,0,"June 25, 2017",3,1,3,Hotel,SA,Kuwait,Kuwait City,iPhoneApp,"June 12, 2017",1
+822672,0,0,0,"June 8, 2017",1,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"June 5, 2017",0
+684314,1,0,0,"March 14, 2017",4,1,3,Others,AE,United Arab Emirates,Ajman,AndroidApp,"March 13, 2017",0
+17548,0,0,0,"January 31, 2017",1,2,4,Hotel,QA,Qatar,Doha,Chrome,"January 30, 2017",0
+822874,0,0,0,"August 24, 2017",1,1,4,Apart Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"August 21, 2017",1
+36186,0,0,0,"June 18, 2017",1,1,2,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"June 12, 2017",0
+874298,1,1,0,"June 9, 2017",1,1,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",1
+14910,1,1,0,"February 24, 2017",1,1,4,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"February 20, 2017",0
+744392,0,1,0,"July 2, 2017",3,1,3,Hotel,SA,Saudi Arabia,Al Khobar,iPhoneApp,"June 12, 2017",1
+657358,1,0,0,"May 5, 2017",1,1,2,Hotel,PS,United States,Hallettsville,AndroidApp,"May 1, 2017",0
+17156,1,0,0,"June 24, 2017",4,1,5,Apart Hotel,SA,Bahrain,Manama,iPhoneApp,"June 19, 2017",1
+737404,0,0,0,"June 12, 2017",1,1,3,Others,SA,Kuwait,Salmiyah,iPhoneApp,"June 12, 2017",0
+25948,0,0,1,"August 7, 2017",1,1,3,Hotel,AE,United Arab Emirates,Dubai,AndroidApp,"August 7, 2017",0
+16166,1,0,0,"June 29, 2017",2,1,4,Hotel Resort,KW,Bahrain,Manama,iPhoneApp,"June 26, 2017",0
+18004,0,0,0,"January 31, 2017",3,1,5,Apartment,QA,Bahrain,Manama,Chrome,"January 30, 2017",0
+45632,1,0,0,"February 27, 2017",6,1,5,Hotel,IQ,United Arab Emirates,Dubai,Chrome,"February 27, 2017",0
+18078,0,0,0,"November 15, 2017",1,1,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"November 13, 2017",0
+15934,1,0,0,"March 6, 2017",5,1,5,Hotel Resort,QA,Kuwait,Salmiyah,iPhoneApp,"February 27, 2017",0
+1083094,1,0,0,"September 17, 2017",10,1,3,Apart Hotel,IQ,Jordan,Amman,Chrome,"September 11, 2017",0
+18136,1,0,0,"October 28, 2017",1,2,4,Hotel,AE,United Arab Emirates,Dubai,Chrome,"October 23, 2017",0
+658930,1,0,0,"November 14, 2017",10,1,0,Hotel,TR,Turkey,Istanbul,iPhoneApp,"November 13, 2017",0
+223830,1,0,0,"January 28, 2017",5,1,4,Hotel,IL,Germany,Cologne,Chrome,"January 23, 2017",0
+207946,1,0,0,"July 28, 2017",3,1,4,Hotel,SA,France,Paris,Chrome,"June 19, 2017",0
+704538,0,0,0,"January 31, 2017",1,1,5,Others,SA,Saudi Arabia,Jeddah,Chrome,"January 30, 2017",0
+563652,0,0,0,"August 1, 2017",1,1,3,Hotel,SA,Georgia,Tbilisi,iPhoneApp,"July 31, 2017",0
+20168,0,0,0,"July 5, 2017",1,2,3,Apart Hotel,SA,Bahrain,Manama,iPhoneApp,"July 3, 2017",0
+673610,0,0,0,"August 1, 2017",3,1,3,Hotel,SA,Saudi Arabia,Dammam,iPhoneApp,"July 31, 2017",1
+15120,1,0,0,"February 4, 2017",1,2,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"January 30, 2017",0
+504170,1,0,0,"April 13, 2017",2,2,4,Hotel,SA,Bahrain,Manama,iPhoneApp,"April 10, 2017",0
+21046,1,0,0,"March 2, 2017",2,1,5,Hotel,SA,Qatar,Doha,iPhoneApp,"February 27, 2017",0
+19484,1,1,0,"February 24, 2017",1,1,3,Hotel,SA,Saudi Arabia,Al Khobar,AndroidApp,"February 20, 2017",1
+815240,0,0,0,"July 4, 2017",2,1,0,Suite,SA,Bahrain,Manama,iPhoneApp,"July 3, 2017",0
+589702,0,0,0,"July 18, 2017",1,1,0,Hotel,SA,Saudi Arabia,Dammam,iPhoneApp,"July 17, 2017",0
+42250,1,0,1,"September 20, 2017",3,1,4,Hotel,AE,Bahrain,Manama,iPhoneApp,"September 4, 2017",0
+23724,0,0,0,"February 14, 2017",1,1,4,Hotel,OM,Oman,Muscat,iPhoneApp,"February 13, 2017",0
+822658,1,0,0,"March 23, 2017",3,1,0,Apartment,SA,Kuwait,Salmiyah,Chrome,"March 13, 2017",0
+481950,1,0,0,"February 28, 2017",5,1,3,Hotel,IQ,Thailand,Bangkok,iPhoneApp,"February 27, 2017",0
+315910,0,0,0,"January 17, 2017",1,1,1,Hotel,OM,United Arab Emirates,Dubai,AndroidApp,"January 16, 2017",0
+25816,0,0,0,"September 3, 2017",4,2,3,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"August 28, 2017",0
+217376,0,0,0,"August 28, 2017",3,1,2,Apartment,KW,Iceland,Reykjavik,AndroidApp,"August 21, 2017",1
+42332,1,0,1,"November 2, 2017",2,1,3,Hotel,SA,Saudi Arabia,Madinah,Chrome,"October 30, 2017",0
+756056,1,0,0,"June 9, 2017",1,1,4,Others,SA,Saudi Arabia,Riyadh,iPhoneApp,"June 5, 2017",0
+15864,1,0,0,"March 4, 2017",1,1,4,Hotel,IL,Palestine,Bethlehem,Chrome,"February 27, 2017",0
+981784,0,0,0,"June 12, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,AndroidApp,"May 29, 2017",0
+23422,0,0,1,"August 24, 2017",1,1,4,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"August 21, 2017",0
+34576,1,0,0,"September 30, 2017",1,1,3,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"September 25, 2017",0
+383092,1,0,0,"August 14, 2017",14,1,0,Residence,MA,France,Paris,Chrome,"August 7, 2017",1
+14538,0,0,0,"April 11, 2017",1,2,3,Hotel,AE,United Arab Emirates,Dubai,iPhoneApp,"April 10, 2017",1
+15212,1,0,1,"October 20, 2017",1,1,5,Hotel,AE,United Arab Emirates,Abu Dhabi,iPhoneApp,"October 16, 2017",0
+32924,1,0,1,"September 1, 2017",2,1,4,Hotel,SA,Turkey,Trabzon,iPhoneApp,"July 24, 2017",0
+822670,1,1,0,"February 9, 2017",2,1,0,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"February 6, 2017",0
+874278,0,1,0,"July 25, 2017",1,1,0,Suite,SA,Saudi Arabia,Jeddah,iPhoneApp,"July 17, 2017",0
+57556,1,0,0,"July 8, 2017",1,1,0,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"July 3, 2017",0
+1064986,0,0,0,"June 6, 2017",1,1,3,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",0
+31730,0,1,0,"March 20, 2017",1,1,4,Hotel,SA,Saudi Arabia,Al Khobar,AndroidApp,"March 20, 2017",0
+822970,1,0,0,"September 2, 2017",1,1,0,Apartment,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 28, 2017",0
+45418,0,0,0,"June 26, 2017",1,1,5,Hotel,SA,Saudi Arabia,Riyadh,iPhoneApp,"June 19, 2017",1
+362886,0,0,0,"July 31, 2017",1,1,3,Hotel,OM,Thailand,Bangkok,iPhoneApp,"July 24, 2017",1
+1072936,1,0,0,"June 23, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",1
+722500,0,0,0,"June 26, 2017",3,1,4,Others,SA,Bahrain,Manama,Chrome,"June 19, 2017",0
+42330,0,0,0,"October 15, 2017",2,1,3,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"October 2, 2017",0
+806234,1,0,0,"June 20, 2017",4,1,2,Others,SA,Saudi Arabia,Makkah (Mecca),AndroidApp,"June 12, 2017",0
+212274,1,0,0,"May 26, 2017",5,1,3,Hotel Resort,PS,Mexico,Cancun,Chrome,"May 22, 2017",0
+30946,1,1,0,"March 11, 2017",1,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"March 6, 2017",1
+341754,1,0,0,"August 19, 2017",10,3,3,Hotel,AE,Switzerland,Geneva,iPhoneApp,"August 7, 2017",1
+27032,1,0,0,"April 6, 2017",5,2,4,Hotel,AE,Egypt,Cairo,Chrome,"April 3, 2017",0
+42248,0,0,0,"June 25, 2017",2,1,3,Apart Hotel,SA,Bahrain,Manama,iPhoneApp,"June 19, 2017",0
+45438,0,0,0,"October 25, 2017",2,1,4,Apartment,SA,Saudi Arabia,Riyadh,iPhoneApp,"October 16, 2017",0
+18146,1,0,0,"May 3, 2017",3,1,4,Hotel,KW,United Arab Emirates,Dubai,iPhoneApp,"April 24, 2017",0
+757348,0,0,0,"August 28, 2017",1,1,3,Others,SA,Saudi Arabia,Taif,AndroidApp,"August 14, 2017",0
+21908,1,0,0,"March 27, 2017",5,1,4,Hotel,SA,United Arab Emirates,Dubai,Chrome,"February 27, 2017",1
+42346,1,0,0,"March 9, 2017",2,1,4,Hotel,SA,Saudi Arabia,Madinah,AndroidApp,"February 27, 2017",1
+319792,1,0,0,"July 30, 2017",7,1,4,Hotel,QA,Turkey,Istanbul,Chrome,"July 17, 2017",0
+57516,1,0,0,"July 22, 2017",1,1,0,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"July 17, 2017",0
+822718,1,1,0,"December 2, 2017",2,1,4,Apart Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"November 27, 2017",0
+640282,1,0,0,"August 17, 2017",2,1,3,Hotel,OM,United Arab Emirates,Sharjah,iPhoneApp,"August 14, 2017",0
+23726,0,0,0,"August 23, 2017",2,1,1,Hotel,BH,Oman,Muscat,Safari,"August 21, 2017",0
+737404,1,0,0,"September 2, 2017",2,2,3,Others,SA,Kuwait,Salmiyah,AndroidApp,"August 28, 2017",0
+822712,0,0,0,"August 13, 2017",1,1,0,Apartment,SA,Turkey,Kartepe,iPhoneApp,"July 24, 2017",1
+23044,0,0,0,"March 6, 2017",2,2,5,Hotel,SA,Egypt,Cairo,Chrome,"February 27, 2017",1
+369392,1,0,0,"January 6, 2017",1,1,3,Hotel,SA,Thailand,Pattaya,iPhoneApp,"January 2, 2017",0
+55704,1,0,0,"August 24, 2017",3,1,4,Hotel,QA,Qatar,Doha,iPhoneApp,"August 21, 2017",0
+820968,1,0,0,"March 30, 2017",2,1,3,Apart Hotel,SA,Saudi Arabia,Jeddah,Chrome,"March 26, 2017",0
+1006488,0,0,0,"September 6, 2017",1,1,2,Apart Hotel,SA,Saudi Arabia,Al Baha,Chrome,"September 4, 2017",0
+24382,0,0,0,"January 16, 2018",3,1,5,Hotel Resort,SA,United Arab Emirates,Dubai,iPhoneApp,"December 25, 2017",0
+787904,1,0,0,"May 19, 2017",2,1,4,Others,SA,United Arab Emirates,Dubai,Chrome,"May 15, 2017",0
+874314,1,1,0,"September 2, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"August 28, 2017",0
+19562,1,0,0,"January 28, 2017",2,1,4,Hotel Resort,SA,Bahrain,Manama,iPhoneApp,"January 23, 2017",0
+248694,1,0,1,"September 13, 2017",3,1,4,Hotel,SA,United Arab Emirates,Dubai,iPhoneApp,"September 11, 2017",0
+979518,1,0,0,"August 25, 2017",3,1,5,Hotel,LY,Tunisia,Sousse,Chrome,"August 21, 2017",0
+705042,1,0,0,"May 19, 2017",8,1,2,Others,PS,Germany,Ratingen,Chrome,"May 1, 2017",1
+350186,1,0,0,"March 31, 2017",1,1,3,Apartment,AE,United Arab Emirates,Abu Dhabi,AndroidApp,"March 26, 2017",0
+18360,1,0,0,"September 30, 2017",4,1,4,Hotel,SA,Saudi Arabia,Riyadh,AndroidApp,"September 25, 2017",0
+874306,1,1,0,"June 9, 2017",5,1,0,Apartment,SA,Saudi Arabia,Makkah (Mecca),iPhoneApp,"June 5, 2017",0
+202310,1,0,0,"July 27, 2017",10,1,3,Hotel,SA,France,Paris,iPhoneApp,"June 19, 2017",1
+248254,0,0,0,"May 25, 2017",1,1,1,Hotel,AE,United Arab Emirates,Abu Dhabi,UNKNOWN,"May 22, 2017",0
+32778,0,1,0,"March 5, 2017",2,1,4,Hotel,SA,Saudi Arabia,Makkah (Mecca),AndroidOS,"February 27, 2017",0
+407218,1,0,0,"July 20, 2017",5,1,5,Hotel,QA,Egypt,Sharm el Sheikh,AndroidApp,"February 13, 2017",1
+368904,1,0,1,"May 17, 2017",4,1,2,Hotel,SA,Philippines,Boracay Island,iPhoneApp,"March 13, 2017",1
+1044882,1,0,0,"October 20, 2017",1,1,4,Hotel,SA,Saudi Arabia,Jeddah,iPhoneApp,"October 16, 2017",0
+15108,0,0,0,"October 5, 2017",1,1,5,Hotel,AE,Saudi Arabia,Madinah,AndroidApp,"October 2, 2017",0
+55340,1,1,0,"March 16, 2017",2,1,5,Hotel,KW,Qatar,Doha,iPhoneApp,"March 13, 2017",1
+822710,0,1,0,"March 22, 2017",1,1,0,Apart Hotel,SA,Saudi Arabia,Yanbu,AndroidApp,"March 20, 2017",0
+499510,0,0,1,"March 26, 2017",1,1,3,Hotel,PS,Morocco,Casablanca,Chrome,"March 20, 2017",0
+822540,0,0,0,"June 8, 2017",1,1,3,Apartment,SA,Saudi Arabia,Riyadh,iPhoneApp,"June 5, 2017",1
